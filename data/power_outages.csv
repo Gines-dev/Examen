@@ -1,0 +1,810 @@
+Event Description;Date Event Began;Time Event Began;Date of Restoration;Time of Restoration;Respondent;Geographic Areas;Demand Loss (MW);Number of Customers Affected;Tags
+Physical Attack;12/30/2013;11:00;1/1/2014;8:00;Arizona Public Service Co;North of Roosevelt lake Arizona;Unknown;Unknown;vandalism, physical
+Load Shed;1/10/2012;21:30;1/10/2012;21:30;Luminant Energy Company LLC;Rusk County, Texas;Unknown;Unknown;load shedding
+Electrical Fault at Generator;1/11/2011;23:08;1/11/2011;23:08;New Athens Generating Co. LLC;Athens, New York;0;0;equipment failure
+Suspected Physical Attack;1/11/2012;7:19;1/11/2012;9:07;Nevada Power Company (NV Energy);Nevada;0;0;vandalism, physical
+Load Shed;1/9/2012;13:36;1/11/2012;1:05;The Dow Chemical Company;Louisiana;150;1;load shedding
+Winter Storm;1/12/2011;6:00;1/12/2011;14:00;National Grid;Massachusetts;Unknown;80000;severe weather, winter storm
+Physical Attack;1/12/2012;8:26;1/12/2012;8:26;Delmarva Power & Light Company;Newark, Delaware;0;0;vandalism, physical
+Firm System Load Shed;1/13/2011;7:21;1/13/2011;8:13;JEA;North Florida;150;20900;load shedding
+Physical Attack;1/13/2012;9:20;1/13/2012;9:20;Delmarva Power & Light Company;Newark, Delaware;0;0;vandalism, physical
+Physical Attack - Vandalism;1/13/2014;16:44;1/13/2014;16:45;Arizona Public Service Co;Arizona;Unknown;Unknown;vandalism, physical
+Vandalism;1/15/2012;9:35;1/15/2012;9:35;Tacoma Power (TPWR);Tacoma, Washington;Unknown;Unknown;vandalism
+Physical Attack - Vandalism;1/15/2014;14:32;1/15/2014;14:45;PacifiCorp;Utah;Unknown;Unknown;vandalism, physical
+Suspected Physical Attack;1/16/2013;16:45;1/16/2013;19:26;Public Service Company of New Mexico;San Juan County, New Mexico;0;0;vandalism, physical
+Physcial Attack - Vandalism;1/16/2013;14:25;1/16/2013;14:25;Delmarva Power & Light Company;Denton, Maryland;Unknown;Unknown;vandalism, physical
+Physical Attack, Vandalism;1/16/2014;12:30;1/16/2014;13:57;Arizona Public Service Co;Arizona;Unknown;Unknown;vandalism, physical
+Suspected Cyber Attack;1/17/2012;10:31;1/17/2012;17:21;Pedernales Electric Cooperative, Inc.;Austin, Texas;Unknown;0;vandalism, cyber
+Distribution Interruption;1/17/2013;20:35;1/17/2013;21:20;North Carolina Eastern M P A;Elizabeth City, North Carolina;40;12000;distribution interruption
+Physical Attack;1/16/2013;7:41;1/17/2013;10:58;MidAmerican Energy Co;Webster County, Iowa;Unknown;Unknown;vandalism, physical
+Suspected Physical Attack;1/17/2014;0:20;1/17/2014;0:20;Dayton Power & Light Co;Ohio;Unknown;Unknown;vandalism, physical
+Vandalism;1/18/2011;14:00;1/18/2011;14:00;National Grid;Whitman, Auburn St Substation, Massachusetts;0;0;vandalism
+Public Appeal to Reduce Electricity Usage;1/18/2014;9:00;1/18/2014;9:45;ERCOT;Texas;Unknown;Unknown;public appeal
+Severe Weather - Winter Storm;1/17/2013;19:02;1/19/2013;18:00;Tennessee Valley Authority;Northeast Tennessee;Unknown;80000;severe weather, winter storm
+Severe Weather - Winter Storm;1/19/2012;7:00;1/20/2012;15:00;Puget Sound Energy;King, Pierce and Thurston Counties, Washington;1600;426000;severe weather, winter storm
+Severe Weather - Winter Storm;1/17/2013;18:07;1/20/2013;19:30;American Electric Power (AEP);Southwest Virginia, Southern West Virginia;Unknown;127000;severe weather, winter storm
+Physical Attack - Vandalism;1/21/2014;0:14;1/21/2014;0:39;Ameren Missouri;Missouri;10;Unknown;vandalism, physical
+Physical Attack - Vandalism;1/22/2014;9:45;1/22/2014;20:19;Duke Energy Midwest;Ohio;Unknown;Unknown;vandalism, physical
+Physical Attack - Vandalism;1/22/2014;13:55;1/22/2014;14:55;Madison Gas and Electric;Wisconsin;Unknown;Unknown;vandalism, physical
+Physical Attack - Vandalism;1/22/2014;0:30;1/22/2014;2:45;Madison Gas and Electric;Wisconsin;Unknown;Unknown;vandalism, physical
+Vandalism;1/23/2011;7:00;1/23/2011;13:00;PacifiCorp;Franklin County, Idaho;0;0;vandalism
+Severe Weather - Wind Storm;1/20/2013;3:30;1/23/2013;6:15;Detroit Edison Co;Southeastern Michigan;Unknown;146500;severe weather, wind
+Suspected Physical Attack;1/22/2014;21:15;1/23/2014;3:08;Public Service Electric &Gas;Burlington County, New Jersey;Unknown;Unknown;vandalism, physical
+Suspicious Activity;1/24/2011;13:20;1/24/2011;13:30;El Paso Electric Company;Newman Power Plant, Texas;0;0;vandalism
+Vandalism;1/24/2012;11:22;1/24/2012;11:22;Tacoma Power (TPWR);Tacoma, Washington;Unknown;Unknown;vandalism
+Physical Attack - Vandalism;1/24/2014;15:30;1/24/2014;17:00;Madison Gas and Electric;Wisconsin;Unknown;Unknown;vandalism, physical
+Physical Attack - Vandalism;1/23/2014;21:17;1/24/2014;17:00;Tacoma Power (TPWR);Wynoochee, Washington;Unknown;Unknown;vandalism, physical
+Public Appeal due to Severe Weather - Cold;1/23/2014;16:00;1/24/2014;0:00;Tennessee Valley Authority;Tennessee;Unknown;Unknown;severe weather, cold
+Public Appeal due to Severe Weather - Cold;1/23/2014;4:00;1/24/2014;0:00;Memphis Light Gas and Water Division;Tennessee;Unknown;Unknown;severe weather, cold
+Public Appeal due to Severe Weather - Cold;1/23/2014;13:04;1/24/2014;9:00;PJM Interconnection;Maryland;Unknown;Unknown;severe weather, cold
+Vandalism;1/25/2011;3:23;1/25/2011;11:00;Atlantic City Electric;Newark, Delaware;0;0;vandalism
+Physical Attack - Vandalism;1/25/2014;10:00;1/25/2014;11:00;Madison Gas and Electric;Madison, Wisconsin;Unknown;Unknown;vandalism, physical
+Vandalism;1/27/2011;9:30;1/27/2011;9:30;Delmarva Power & Light Company;Hockessin, Delaware;0;0;vandalism
+Winter Storm;1/26/2011;19:43;1/27/2011;18:18;Dominion - Virginia Power;Northern Virginia;600;150084;severe weather, winter storm
+Suspected Telecommunications Attack;1/26/2011;9:25;1/27/2011;17:00;NV Energy;Carson City, Nevada;0;0;vandalism, cyber
+Vandalism;1/26/2011;9:33;1/27/2011;15:03;ITC Transmission;Michigan;0;0;vandalism
+Vandalism;1/27/2012;9:40;1/27/2012;9:40;Tacoma Power (TPWR);Frederickson Substation, Spanaway, Washington;Unknown;Unknown;vandalism
+Physical Attack - Vandalism;1/26/2014;21:00;1/27/2014;11:00;PacifiCorp;Oregon;Unknown;Unknown;vandalism, physical
+Physical Attack;1/28/2013;16:46;1/28/2013;18:00;Tacoma Power (TPWR);Tacoma Narrows Crossing, Washington;Unknown;Unknown;vandalism, physical
+Public Appeal due to Severe Weather - Cold;1/27/2014;14:20;1/28/2014;21:00;PJM Interconnection;Maryland;Unknown;Unknown;severe weather, cold
+Winter Storm;1/26/2011;18:28;1/29/2011;17:00;Baltimore Gas and Electric Company;Maryland;Unknown;234326;severe weather, winter storm
+Vandalism;1/29/2012;0:45;1/29/2012;0:45;Tacoma Power (TPWR);Roosevelt Substation, Tacoma, Washington;Unknown;Unknown;vandalism
+Physical Attack - Vandalism;1/29/2014;16:00;1/29/2014;16:44;Madison Gas and Electric;Unknown;Unknown;Unknown;vandalism, physical
+Fuel Supply Deficiency (Coal);1/27/2011;17:00;1/30/2011;5:00;AES Greenidge, LLC;Central New York;108;Unknown;fuel supply emergency, coal
+Winter Storm;1/26/2011;17:00;1/31/2011;8:00;Potomac Electric Power Co/ PEPCO Holdings Inc.;Montgomery and Prince George's County, Maryland and District of Columbia;Unknown;210000;severe weather, winter storm
+Severe Weather - Wind Storm;1/31/2013;6:30;1/31/2013;10:00;ISO New England;Connecticut;75;75000;severe weather, wind
+Severe Weather - Wind Storm;1/31/2013;3:05;1/31/2013;4:48;Dominion Virginia Power;Central and Eastern Virginia;188;119000;severe weather, wind
+Suspected physical attack;1/4/2012;0:14;1/4/2012;0:14;Tacoma Power (TPWR);Tacoma, Washington;Unknown;Unknown;vandalism, physical
+Sabotage;1/5/2012;10:35;1/5/2012;12:25;American Electric Power;CSWS/AEP West territory, Oklahoma;0;0;vandalism
+Suspected physical attack;1/5/2012;10:28;1/5/2012;12:25;Oklahoma Gas and Electric;Creek County, Oklahoma;Unknown;Unknown;vandalism, physical
+Public Appeal due to Severe Weather - Cold;1/6/2014;22:00;1/6/2014;22:01;Louisville Gas & Electric Co;Kentucky;Unknown;Unknown;severe weather, cold
+Voltage Reduction due to Severe Weather - Cold;1/6/2014;19:50;1/6/2014;20:49;UGI Utilities, Inc;Pennsylvania;200;62000;severe weather, cold
+Voltage Reduction due to Severe Weather - Cold;1/6/2014;19:52;1/6/2014;20:45;Delmarva Power & Light Company;Delaware;Unknown;Unknown;severe weather, cold
+Voltage Reduction due to Severe Weather - Cold;1/6/2014;19:50;1/6/2014;20:44;Potomac Electric Power Co;District of Columbia;Unknown;Unknown;severe weather, cold
+Voltage Reduction due to Severe Weather - Cold;1/6/2014;19:50;1/6/2014;20:44;PJM Interconnection;Unknown;Unknown;Unknown;severe weather, cold
+Voltage Reduction due to Severe Weather - Cold;1/6/2014;19:50;1/6/2014;20:44;PPL Electric Utilities Corp;Pennsylvania;Unknown;Unknown;severe weather, cold
+Vandalism;1/6/2014;14:37;1/6/2014;14:38;PacifiCorp;Utah;Unknown;Unknown;vandalism
+Physcial Attack, Vandalism;1/7/2013;10:43;1/7/2013;10:43;Delmarva Power & Light Company;Denton, Maryland;Unknown;Unknown;vandalism, physical
+Voltage Reduction, Public Appeal, Load Shed 100+MW due to Severe Weather - Cold;1/7/2014;18:00;1/7/2014;23:00;South Carolina Electric and Gas;South Carolina;4853;677858;severe weather, cold
+Voltage Reduction, Public Appeal due to Severe Weather - Cold;1/7/2014;7:58;1/7/2014;11:00;Duke Energy Progress;North Carolina;14435;Unknown;severe weather, cold, public appeal
+Public Appeal due to Severe Weather - Cold;1/7/2014;6:00;1/7/2014;8:30;Tennessee Valley Authority;Northeast Tennessee;Unknown;Unknown;severe weather, cold
+Public Appeal due to Severe Weather - Cold;1/7/2014;6:00;1/7/2014;8:30;Memphis Light Gas and Water Division;Tennessee;Unknown;Unknown;severe weather, cold
+Severe Weather - Cold;1/7/2014;6:18;1/7/2014;6:19;PJM Interconnection;Pennsylvania;Unknown;Unknown;severe weather, cold
+Public Appeal due to Severe Weather - Cold;1/6/2014;20:45;1/7/2014;21:00;PJM Interconnection;Unknown;Unknown;Unknown;severe weather, cold
+Public Appeal due to Severe Weather - Cold;1/6/2014;7:01;1/7/2014;9:00;ERCOT;Texas;Unknown;Unknown;severe weather, cold
+Voltage Reduction, Public Appeal, Load Shed 100+MW due to Severe Weather - Cold;1/8/2014;6:00;1/8/2014;9:00;South Carolina Electric and Gas;South Carolina;4545;677858;severe weather, cold
+Voltage Reduction due to Severe Weather - Cold;1/8/2014;5:00;1/8/2014;6:30;American Electric Power;Unknown;576;Unknown;severe weather, cold
+Public Appeal due to Severe Weather - Cold;1/7/2014;16:15;1/8/2014;13:20;Duke Energy Progress;North Carolina;Unknown;Unknown;severe weather, cold
+Fuel Supply Emergency due to Severe Weather - Cold;1/7/2014;9:30;1/8/2014;9:30;Duke Energy Carolinas;Piedmont North Carolina, Piedmont South Carolina;Unknown;Unknown;severe weather, cold
+Public Appeal due to Severe Weather - Cold;1/7/2014;21:00;1/8/2014;9:00;PJM Interconnection;Unknown;Unknown;Unknown;severe weather, cold
+Vandalism;1/9/2012;14:30;1/9/2012;15:30;ISO New England/Convex;Watertown, Connecticut;Unknown;Unknown;vandalism
+Fuel Supply Emergency - Natural Gas;1/7/2014;10:59;1/9/2014;9:00;Prairie Power, Inc.;Illinois;Unknown;Unknown;fuel supply emergency, natural gas
+Vandalsim;10/11/2012;0:00;10/11/2012;12:01;Potomac Electric Power Company (PEPCO);Seat Pleasant, Maryland;0;0;vandalism
+Physical Attack;10/11/2013;14:30;10/11/2013;18:30;MISO - Entergy;Keo, Arkansas;Unknown;Unknown;vandalism, physical
+Vandalism;10/14/2011;14:20;10/14/2011;14:20;Atlantic City Electric;English Creek, New Jersey;0;0;vandalism
+Electrical System Separation (Islanding);10/14/2012;10:36;10/14/2012;10:50;Pacific Gas & Electric Co;Northern California;3;2035;islanding
+Vandalism, Theft;10/15/2012;14:15;10/15/2012;14:16;ISO New England;Southeast Vermont;0;0;vandalism, physical
+Cyber Event with Potential to Cause Impact;10/16/2013;11:15;10/16/2013;18:00;Duke Energy Progress;Roxboro Plant, North Carolina;0;0;vandalism, cyber
+Vandalism;10/17/2011;15:44;10/17/2011;15:44;Duke Energy;Southwest Ohio;7;2000;vandalism
+Vandalism;10/17/2011;3:34;10/17/2011;10:42;Potomac Electric Power Company;Seat Pleasant, Maryland;0;0;vandalism
+Suspected Physical Attack;10/18/2011;3:45;10/18/2011;5:25;PECO Energy;Holmesburg Substation, Philadelphia, Pennsylvania;0;0;vandalism, physical
+Physical Attack;10/19/2013;14:32;10/19/2013;22:00;Pacific Gas & Electric Co;California;Unknown;Unknown;vandalism, physical
+Vandalism;10/20/2011;7:15;10/20/2011;7:15;Atlantic City Electric;McKee, New Jersey;0;0;vandalism
+Electrical System Separation (Islanding);10/21/2013;5:18;10/21/2013;5:33;Pacific Gas & Electric Co;Location Unknown;115;433;islanding
+Physical Attack, Vandalism;10/22/2012;0:00;10/22/2012;12:01;Potomac Electric Power Company (PEPCO);Norbeck, Maryland;0;0;vandalism, physical
+Transmission System Interruption;10/23/2012;9:10;10/23/2012;9:16;Crawfordsville Electric, Light & Power;Crawfordsville, Indiana;49;9800;transmission interruption
+Physical Attack, Vandalism;10/24/2012;15:15;10/24/2012;15:16;Delmarva Power & Light Company;Frankford, Delaware;0;0;vandalism, physical
+Physical Attack, Vandalism;10/24/2012;0:00;10/24/2012;12:01;Potomac Electric Power Company (PEPCO);Kingswood, Maryland;0;0;vandalism, physical
+Suspected Physical Attack;10/24/2012;0:00;10/24/2012;12:01;Potomac Electric Power Company (PEPCO);Brighton, Maryland;0;0;vandalism, physical
+Physical Attack, Vandalism;10/25/2012;18:51;10/25/2012;19:30;Delmarva Power & Light Company;Newark, Delaware;0;0;vandalism, physical
+Physical Attack, Vandalism;10/25/2012;14:39;10/25/2012;18:00;Black Hills/Colorado Elec.Util;Pueblo, Colorado;0;0;vandalism, physical
+Physical Attack, Vandalism;10/25/2012;0:00;10/25/2012;12:01;Potomac Electric Power Company (PEPCO);West Lanham, Maryland;Unknown;Unknown;vandalism, physical
+Suspected Physical Attack;10/24/2011;23:37;10/26/2011;23:00;PJM Interconnection;Holmesburg Substation, Philadelphia, Pennsylvania;0;0;vandalism, physical
+Suspected Physical Attack;10/26/2013;7:13;10/26/2013;7:14;Arizona Public Service Co;Arizona;Unknown;Unknown;vandalism, physical
+Vandalism;10/27/2011;1:00;10/27/2011;2:36;Midwest ISO;Munster, Indiana;Unknown;Unknown;vandalism
+Severe Weather;10/26/2011;5:00;10/27/2011;15:00;Public Service Company of Colorado;Denver, Ft. Collins, Colorado;Unknown;204000;severe weather
+Severe Weather - Hail Storm;10/27/2013;4:27;10/27/2013;22:27;CenterPoint Energy;Houston, Texas;Unknown;171117;severe weather, hail
+Suspected Physical Attack;10/29/2012;15:00;10/29/2012;15:01;Nevada Power Company d/b/a NV Energy;Las Vegas, Nevada;Unknown;Unknown;vandalism, physical
+Physical Attack, Vandalism;10/29/2012;9:00;10/29/2012;9:01;City of Tacoma (TPWR);LaGrande, Washington;0;0;vandalism, physical
+Physical Attack, Vandalism;10/30/2012;15:00;10/30/2012;15:01;Black Hills/Colorado Elec.Util;Pueblo, Colorado;Unknown;Unknown;vandalism, physical
+Vandalism;10/30/2012;13:20;10/30/2012;13:25;ISO New England;Fitzwilliam, New Hampshire;0;0;vandalism
+Physical Attack, Vandalism;10/30/2012;0:00;10/30/2012;12:02;Potomac Electric Power Company (PEPCO);Hyattsville, Maryland;0;0;vandalism, physical
+Severe Weather - Hurricane Sandy;10/29/2012;18:12;10/30/2012;19:35;Dominion Virginia Power;Virginia;520;156000;severe weather, hurricane/tropical storm
+Severe Weather - Hurricane Sandy;10/29/2012;14:40;10/30/2012;18:16;ISO New England obo NSTAR;Boston, Southeast Massachusetts;Unknown;50000;severe weather, hurricane/tropical storm
+Severe Weather - Hurricane Sandy;10/29/2012;19:15;10/30/2012;15:02;ISO New England;Southeast and Seacoast Maine;Unknown;50000;severe weather, hurricane/tropical storm
+Suspected Cyber Attack;6/21/2013;8:31;10/30/2013;14:09;ITC Transmission;Michigan, Iowa;Unknown;Unknown;vandalism, cyber
+Severe Weather;10/29/2011;20:00;10/31/2011;20:00;Orange and Rockland Utilities, Inc;New Jersey, New York;Unknown;74000;severe weather
+Severe Weather - Hurricane Sandy;10/29/2012;17:13;10/31/2012;11:00;Baltimore Gas & Electric Company;Greater Baltimore Maryland;0;219000;severe weather, hurricane/tropical storm
+Severe Weather - Hurricane Sandy;10/29/2012;16:45;10/31/2012;11:00;ISO New England/PSNH;New Hampshire;Unknown;50000;severe weather, hurricane/tropical storm
+Suspected Physical Attack;10/5/2012;17:30;10/5/2012;17:50;Western Area Power Authority - Sierra Nevada Region;Greater Sacramento, California;Unknown;Unknown;vandalism, physical
+Vandalism;10/6/2011;11:07;10/6/2011;11:07;PacifiCorp;Oquirrh Substation, Utah;0;0;vandalism
+Physical Attack;10/6/2013;7:25;10/6/2013;9:15;MISO - AECC;Jacksonville, Arkansas;Unknown;9200;vandalism, physical
+Suspected Physical Attack;10/7/2011;8:04;10/7/2011;16:00;City of Tacoma - TPWR;Olympic Pipeline, Spanaway, Washington;Unknown;Unknown;vandalism, physical
+Vandalsim;10/9/2012;0:00;10/9/2012;12:01;Potomac Electric Power Company (PEPCO);Seat Pleasant, Maryland;0;0;vandalism
+Severe Weather - Nor'easter;10/30/2012;2:00;11/1/2012;22:00;Detroit Edison Co;Greater Detroit Michigan;Unknown;133777;severe weather, storm
+Severe Weather - Hurricane Sandy;10/29/2012;14:45;11/1/2012;1:30;ISO New England/REMVEC;Eastern Massachusetts;Unknown;50000;severe weather, hurricane/tropical storm
+Physical Attack - Vandalism;11/1/2013;13:26;11/1/2013;13:27;Delmarva Power & Light Company;Wilmington, Delaware;Unknown;Unknown;vandalism, physical
+Winter Storm;11/6/2002;22:00;11/10/2002;0:00;Pacific Gas & Electric Co.;Northern and Central California;270;939000;severe weather, winter storm
+Severe Weather - Hurricane Sandy;10/29/2012;13:00;11/12/2012;14:00;Long Island Power Authority (LIPA);Long Island, New York;0;632816;severe weather, hurricane/tropical storm
+Electrical System Separation (Islanding);11/12/2013;14:04;11/12/2013;14:05;Pacific Gas & Electric Co;Valle, California;55;48400;islanding
+Loss of Power from Wholesale Provider, Major Distribution Disruption;11/12/2013;9:14;11/12/2013;10:30;Farmers' Electric Coop, Inc;Eastern Central New Mexico;Unknown;Unknown;fuel supply emergency
+Vandalism;11/13/2011;11:30;11/13/2011;12:00;ISO New England / obo Public Service of New Hampshire;Cate Road, Deerfield, New Hampshire;0;0;vandalism
+Vandalism;11/14/2011;14:24;11/14/2011;14:24;Atlantic City Electric;McKee, New Jersey;0;0;vandalism
+Suspected Cyber Attack;11/15/2012;21:09;11/15/2012;21:26;ITC Transmission;Iowa, Michigan;Unknown;Unknown;vandalism, cyber
+Physical Attack, Vandalism;11/15/2012;5:38;11/15/2012;5:39;ISO New England;Southeast Massachusetts;0;0;vandalism, physical
+Physical Attack - Vandalism;11/16/2013;15:15;11/16/2013;15:16;PacifiCorp;Salt Lake County, Utah;Unknown;Unknown;vandalism, physical
+Severe Weather - Thunderstorms;11/17/2013;14:31;11/17/2013;22:30;Commonwealth Edison Co;Entire ComEd Territory Illinois;Unknown;190000;severe weather, thunderstorm
+System-wide voltage reductions of 3 percent or more;11/17/2013;12:35;11/17/2013;13:40;City of Rochelle;Rochelle, Indiana;38;7500;voltage reduction
+Fuel Supply Deficiency;11/17/2012;10:00;11/18/2012;10:00;ERCOT;Comanche Peak, Texas;1231;0;fuel supply emergency
+Severe Weather - Thunderstorms;11/17/2013;16:19;11/18/2013;18:00;American Electric Power;Indiana, Michigan;Unknown;77346;severe weather, thunderstorm
+Severe Weather;10/29/2011;16:16;11/2/2011;21:30;Consolidated Edison Company of NY, Inc;New York City area;Unknown;50000;severe weather
+Severe Weather;10/29/2011;15:00;11/2/2011;8:15;Central Hudson Gas & Electric Corp.;Mid-Hudson Valley Region, New York;Unknown;145000;severe weather
+Physical Attack, Vandalism;11/2/2012;9:30;11/2/2012;12:10;ISO New England;Concord, Vermont;0;0;vandalism, physical
+Severe Weather - Hurricane Sandy;10/29/2012;9:00;11/2/2012;18:00;Delmarva Power & Light Company;Delaware, Maryland;Unknown;70000;severe weather, hurricane/tropical storm
+Severe Weather - Nor'easter;10/29/2012;19:00;11/2/2012;5:00;American Electric Power;Indiana, Kentucky, Michigan, Ohio;Unknown;173273;severe weather, storm
+Physical Attack - Vandalism;11/2/2013;8:25;11/2/2013;8:26;PacifiCorp;Salt Lake City, Utah;Unknown;Unknown;vandalism, physical
+Physical Attack - Vandalism;11/20/2013;3:08;11/20/2013;3:09;Pacific Gas & Electric Co;Salt Lake County Utah;Unknown;Unknown;vandalism, physical
+Severe Weather - Ice and Snow Storm;11/17/2013;7:00;11/20/2013;18:54;Detroit Edison Co;Michigan;Unknown;325325;severe weather, winter storm
+Severe Weather - Thunderstorms;11/17/2013;16:47;11/20/2013;16:47;Duke Energy Midwest;Central Indiana;Unknown;61705;severe weather, thunderstorm
+Severe Weather - Thunderstorms;11/17/2013;13:06;11/20/2013;13:06;Northern Indiana Public Service Company;North Central Indiana;Unknown;75065;severe weather, thunderstorm
+Severe Weather - Tornadoes;11/17/2013;16:47;11/20/2013;11:59;Duke Energy Indiana Inc;Central Indiana;535;61705;severe weather, tornado
+Severe Weather - Tornadoes;11/17/2013;12:35;11/20/2013;11:00;Ameren Missouri;Central Missouri, Central Illinois;Unknown;200000;severe weather, tornado
+Ice Storm;11/17/2002;6:00;11/21/2002;8:00;Northeast Utilities;Northwest and North Central Connecticut;Unknown;224912;severe weather, winter storm
+Physical Attack, Vandalism;11/21/2012;14:50;11/21/2012;14:51;Delmarva Power & Light Company;Bethany Beach, Delaware;Unknown;Unknown;vandalism, physical
+Severe Weather - Thunderstorms;11/17/2013;16:45;11/21/2013;16:45;Consumers Energy Co;Entire Lower Peninsula Michigan;Unknown;50000;severe weather, thunderstorm
+Suspected Physical Attack;11/22/2011;23:16;11/22/2011;23:16;Northern Indiana Public Service Co;Indiana;0;0;vandalism, physical
+Severe Weather - Wind Storm;11/21/2013;19:45;11/22/2013;3:20;Pacific Gas & Electric Co;Northern California;150;89500;severe weather, wind
+Physical Attack - Vandalism;11/24/2013;7:38;11/24/2013;7:39;Pacific Gas & Electric Co;Salt Lake County Utah;Unknown;Unknown;vandalism, physical
+Physical Attack, Vandalism;11/26/2012;15:07;11/26/2012;15:08;Delmarva Power & Light Company;Georgetown, Delaware;Unknown;Unknown;vandalism, physical
+Physical Attack, Vandalism;11/26/2012;0:37;11/26/2012;0:38;Delmarva Power & Light Company;Frankfort, Delaware;0;0;vandalism, physical
+Physical Attack, Vandalism;11/27/2012;13:07;11/27/2012;13:40;ISO New England;New Hampshire;0;0;vandalism, physical
+Severe Weather;10/29/2011;12:57;11/3/2011;23:00;PPL Electric Utilities;Harrisburg, Lehigh Valley, Lancaster Region Pennsylvania;Unknown;146721;severe weather
+Severe Weather - Hurricane Sandy;10/29/2012;18:46;11/3/2012;10:45;Orange and Rockland Utilities, Inc.;Southeast New York, New Jersey;Unknown;200000;severe weather, hurricane/tropical storm
+Vandalism;11/30/2011;10:00;11/30/2011;11:00;City of Tacoma - TPWR;Orchard Substation, Washington;0;0;vandalism
+Vandalism;11/4/2011;10:46;11/4/2011;10:46;PacifiCorp;Sweetwater County, Wyoming;0;0;vandalism
+Severe Weather;10/29/2011;11:18;11/4/2011;12:00;New York State Elec & Gas Corp;Southeast New York;Unknown;161151;severe weather
+Severe Weather - Hurricane Sandy;10/29/2012;12:00;11/4/2012;23:00;FirstEnergy Corp: Jersey Central Power & Light;New Jersey;Unknown;217000;severe weather, hurricane/tropical storm
+Severe Weather - Hurricane Sandy;10/29/2012;8:00;11/4/2012;23:00;Atlantic City Electric Co;New Jersey;Unknown;Unknown;severe weather, hurricane/tropical storm
+Severe Weather - Hurricane Sandy;10/29/2012;18:11;11/4/2012;22:50;PPL Electric Utilities Corp;Central Pennsylvania;Unknown;400000;severe weather, hurricane/tropical storm
+Severe Weather - Hurricane Sandy;10/29/2012;15:15;11/4/2012;20:00;ISO New England/CONVEX;Connecticut, Western Massachusetts;0;649075;severe weather, hurricane/tropical storm
+Severe Weather - Hurricane Sandy;10/29/2012;18:48;11/4/2012;11:36;Iberdrola USA (NYSEG);New York;Unknown;371000;severe weather, hurricane/tropical storm
+Physical Attack - Vandalism;11/4/2013;9:04;11/4/2013;9:05;ISO New England;Connecicut;Unknown;Unknown;vandalism, physical
+Severe Weather - Heavy Winds;11/2/2013;0:00;11/4/2013;6:00;Puget Sound Energy;King, Whatcom, and Skagit, Washington;Unknown;105000;severe weather, wind
+Severe Weather - Hurricane Sandy;10/29/2012;16:00;11/5/2012;23:59;FirstEnergy Corp: CEI;Greater Cleveland Ohio;0;346000;severe weather, hurricane/tropical storm
+Severe Weather;10/29/2011;14:30;11/6/2011;0:00;Public Service Electric and Gas Company;New Jersey;125;197000;severe weather
+Severe Weather - Hurricane Sandy;10/29/2012;16:03;11/6/2012;0:00;PSE&G;New Jersey;Unknown;50000;severe weather, hurricane/tropical storm
+Severe Weather - Hurricane Sandy;10/29/2012;17:30;11/6/2012;12:00;Exelon Corporation/PECO;Greater Philadelphia Pennsylvania;Unknown;850000;severe weather, hurricane/tropical storm
+Severe Weather;10/29/2011;8:59;11/7/2011;19:58;Metropolitan Edison Company;Pennsylvania;Unknown;312359;severe weather
+Severe Weather;10/29/2011;16:14;11/7/2011;16:00;ISO New England;Connecticut, Maine, Massachusetts, New Hampshire, Rhode Island;Unknown;1418100;severe weather
+Severe Weather;10/29/2011;8:59;11/7/2011;15:00;Potomac Edison;Pennsylvania;Unknown;50000;severe weather
+Severe Weather;10/29/2011;9:59;11/7/2011;13:00;Jersey Central Power & Light Company;Northwest and Central New Jersey;Unknown;379000;severe weather
+Physical Attack, Vandalism;11/7/2012;14:21;11/7/2012;14:48;ISO New England;New Hampshire;0;0;vandalism, physical
+Severe Weather - Hurricane Sandy;10/29/2012;16:00;11/7/2012;23:48;FirstEnergy Corp: Met-Ed;Eastern Pennsylvania;0;270000;severe weather, hurricane/tropical storm
+Physical Attack;11/5/2013;10:10;11/7/2013;10:10;Duke Energy Indiana Inc;Indiana;Unknown;Unknown;vandalism, physical
+Physical Attack, Vandalism;11/8/2012;9:34;11/8/2012;9:35;Delmarva Power & Light Company;Bishopville, Maryland;0;0;vandalism, physical
+Severe Weather - Hurricane Sandy;10/29/2012;16:01;11/8/2012;19:00;Consolidated Edison Co-NY Inc;Greater New York City, New York;0;818000;severe weather, hurricane/tropical storm
+Severe Weather - Hurricane Sandy;10/29/2012;16:00;11/8/2012;17:08;FirstEnergy Corp: Potomac Edison;Maryland, West Virginia;Unknown;150000;severe weather, hurricane/tropical storm
+Severe Weather - Hurricane Sandy;10/29/2012;0:00;11/9/2012;23:59;FirstEnergy Corp: Mon Power Company;West Virginia;0;208000;severe weather, hurricane/tropical storm
+Suspected Physical Attack;12/10/2013;1:01;12/11/2013;1:01;Arizona Public Service Co;Arizona;Unknown;Unknown;vandalism, physical
+Severe Weather - Ice/Snow;12/6/2013;1:51;12/11/2013;0:00;Oncor Electric Delivery Company LLC;Greater Houston, Texas;Unknown;881000;severe weather, winter storm
+Winter Storm;12/11/2002;13:09;12/13/2002;10:00;Dominion-Virginia Power/North Carolina Power;Northern Virginia to Fredericksburg, Staunton to Harrisonburg;63;130000;severe weather, winter storm
+Suspected Physical Attack;12/13/2011;3:19;12/14/2011;3:19;Dayton Power & Light;Clinton County Ohio;Unknown;0;vandalism, physical
+Suspected Physical Attack;12/17/2012;6:55;12/17/2012;7:00;Tacoma Power (TPWR);Tacoma, Washington;0;0;vandalism, physical
+Winter Storm;12/14/2002;11:00;12/19/2002;4:00;Pacific Gas & Electric;Northern and Central California;180;1500000;severe weather, winter storm
+Suspected Physical Attack;12/19/2011;8:48;12/19/2011;16:00;City of Tacoma (TPWR);Croft Substation, Tacoma, Washington;Unknown;Unknown;vandalism, physical
+Suspected Physical Attack;12/2/2011;16:15;12/2/2011;20:30;Luminant Energy Company LLC;Rusk County Texas;Unknown;Unknown;vandalism, physical
+Severe Weather;12/1/2011;10:00;12/2/2011;13:11;PacifiCorp;Wasatch Front Area Utah;Unknown;60000;severe weather
+Severe Weather;12/1/2011;3:29;12/2/2011;13:05;Pacific Gas and Electric;Northern California;300;100000;severe weather
+Severe Weather;11/30/2011;16:56;12/2/2011;10:00;Los Angeles Department of Water and Power;City of Los Angeles, California;Unknown;150000;severe weather
+Suspected Physical Attack;12/20/2011;9:30;12/20/2011;9:31;City of Tacoma (TPWR);Tacoma, Washington;Unknown;Unknown;vandalism, physical
+Suspected Physical Attack;12/20/2011;7:45;12/20/2011;8:45;PacifiCorp;Sweet Home, Oregon;12;2500;vandalism, physical
+Winter Storm;12/19/2002;6:00;12/21/2002;5:00;Pacific Gas & Electric;Northern and Central California;56;385000;severe weather, winter storm
+Suspected Cyber Attack;12/21/2011;10:30;12/21/2011;10:30;Idaho Power Company;Boise, Idaho;0;0;vandalism, cyber
+Severe Weather - Ice/Snow;12/22/2013;6:16;12/24/2013;23:59;Niagara Mohawk Power Corp.;Frontier/Genesee/Northern New York;Unknown;59000;severe weather, winter storm
+Severe Weather - Ice/Snow;12/23/2013;15:20;12/25/2013;11:32;Central Maine Power Co;Central Maine Maine;Unknown;52500;severe weather, winter storm
+Severe Weather - Ice/Snow;12/22/2013;6:30;12/25/2013;5:12;Detroit Edison Co;Michigan;350;140735;severe weather, winter storm
+Winter Storm;12/25/2002;17:00;12/26/2002;5:00;PPL Corporation;Eastern Pennsylvania;250;106000;severe weather, winter storm
+Severe Weather - Thunderstorm;12/26/2012;14:50;12/26/2012;19:40;Town of Stantonsburg - (NC);Stantonsburg, North Carolina;3;1200;severe weather, thunderstorm
+Severe Weather - Cold Front, High Winds;12/25/2012;9:28;12/26/2012;16:28;CenterPoint Energy;Houston, Texas;294;262000;severe weather, cold, wind
+Winter Storm;12/25/2002;10:00;12/27/2002;8:30;Metropolitan Edison Co./First Energy;Reading, York, Hanover, Hamburg Pennsylvania;Unknown;95630;severe weather, winter storm
+Physical Attack;12/27/2013;9:43;12/27/2013;12:43;Arizona Public Service Co;Gilabend Arizona;Unknown;Unknown;vandalism, physical
+Fuel Supply Emergencies (Coal);12/13/2013;11:00;12/27/2013;11:00;City of Garland;Texas;Unknown;Unknown;fuel supply emergency, coal
+Fuel Supply Emergencies (Coal);12/13/2013;11:00;12/27/2013;11:00;Texas Municipal Power Agency;Texas;Unknown;Unknown;fuel supply emergency, coal
+Severe Weather - Winter Storm;12/25/2012;0:45;12/28/2012;16:15;Entergy;Arkansas, Louisiana, Mississippi, Texas;Unknown;242509;severe weather, winter storm
+Severe Weather - Ice/Snow;12/22/2013;3:28;12/28/2013;23:45;Consumers Energy Co;Southern Lower Penninsula, Michigan;Unknown;50000;severe weather, winter storm
+Suspected Physical Attack;12/3/2012;0:02;12/3/2012;0:30;Tacoma Power (TPWR);Tacoma, Washington;0;0;vandalism, physical
+Physical Attack;12/30/2013;11:00;12/30/2013;11:01;PacifiCorp;Salt Lake County Utah;Unknown;Unknown;vandalism, physical
+Suspected Physical Attack;12/31/2011;21:26;12/31/2011;21:26;City of Tacoma (TPWR);Tacoma, Washington;Unknown;Unknown;vandalism, physical
+Transmission Interruption;12/31/2012;14:21;12/31/2012;16:30;City of Washington - (NC);North Carolina;40;12000;transmission interruption
+Severe Weather - Winter Storm;12/2/2012;5:20;12/4/2012;9:00;Pacific Gas & Electric Co;Northern California;250;125000;severe weather, winter storm
+Load Shed 100+ MW;12/4/2013;5:00;12/4/2013;16:17;WECC - Loveland;Idaho Falls Area Idaho, Utah-Idaho Border Utah;150;Unknown;load shedding
+Public Appeal to Reduce Electricity Usage;12/6/2011;8:00;12/6/2011;20:00;Montana Dakota Utilities;Bismarck-Mandan, North Dakota;155;34500;public appeal
+Suspected Physical Attack;12/5/2011;14:00;12/6/2011;17:00;City of Tacoma (TPWR);Tacoma, Washington;Unknown;Unknown;vandalism, physical
+Load Shed;12/6/2012;21:18;12/6/2012;21:31;California Department of Water Resources;Greater San Jose, California;390;Unknown;load shedding
+Physical Attack - Vandalism, Theft;12/6/2013;8:47;12/6/2013;8:49;PacifiCorp;Saratoga, Utah;Unknown;Unknown;vandalism, physical
+Severe Weather;12/7/2011;19:29;12/7/2011;22:57;Dominion Virginia Power;Central Virginia;240;60000;severe weather
+Suspected Physical Attack;12/6/2011;17:38;12/7/2011;11:04;ITC Holdings;Montague, Michigan;0;0;vandalism, physical
+Severe Weather;12/1/2011;0:45;12/7/2011;21:00;Southern California Edison (SCE);Southern California;Unknown;91690;severe weather
+Suspected Physical Attack;12/8/2011;8:45;12/8/2011;16:30;City of Tacoma (TPWR);Tacoma, Washington;Unknown;Unknown;vandalism, physical
+Ice Storm;12/3/2002;18:30;12/9/2002;10:30;Entergy Corporation;Arkansas;Unknown;43000;severe weather, winter storm
+Severe Weather - Ice/Snow;12/9/2013;6:54;12/9/2013;14:22;Dominion Virginia Power;Virginia Service Territory;293;88000;severe weather, winter storm
+Ice Storm;1/30/2002;16:00;2/10/2002;9:00;Missouri Public Service;Missouri;210;95000;severe weather, winter storm
+Vandalism;2/10/2011;13:00;2/10/2011;13:00;Tacoma Power - TPWR;LaGrande, Washington;0;0;vandalism
+Cold Weather Event;2/9/2011;16:30;2/10/2011;0:33;ERCOT ISO;Texas;Unknown;Unknown;severe weather, cold
+Generator Trip, Voltage Reduction;2/10/2013;19:46;2/10/2013;20:15;Puerto Rico Electric Power Authority;Puerto Rico;350;Unknown;voltage reduction, generator trip
+Suspected Physical Attack;2/11/2012;8:47;2/11/2012;10:30;Xcel Energy (Public Service Company of Colorado);Lamar, Colorado;0;0;vandalism, physical
+Suspected Physical Attack;2/11/2012;8:55;2/11/2012;8:55;Tacoma Power (TPWR);Tacoma, Washington;Unknown;Unknown;vandalism, physical
+Severe Weather - Winter Storm Nemo;2/8/2013;20:00;2/11/2013;20:30;ISO New England/National Grid;Central and eastern Massachusetts, Rhode Island;Unknown;50000;severe weather, winter storm
+Severe Weather - Winter Storm Nemo;2/8/2013;20:55;2/12/2013;4:00;ISO New England/NSTAR;Boston area and Southeast Massachusetts;Unknown;50000;severe weather, winter storm
+Physical Attack - Vandalism;2/12/2014;14:15;2/12/2014;14:16;ISO New England;Vermont;Unknown;Unknown;vandalism, physical
+Suspected Physical Attack;2/13/2012;7:02;2/13/2012;16:25;Progress Energy Carolinas;Asheville, North Carolina;Unknown;Unknown;vandalism, physical
+Vandalism;2/13/2013;9:30;2/13/2013;9:30;Potomac Electric Power Company;Fort Washington, Maryland;1;1;vandalism
+Physical Attack - Vandalism;2/14/2014;13:00;2/14/2014;15:00;PacifiCorp;Portland, Oregon;Unknown;Unknown;vandalism, physical
+Suspected Physical Attack;2/15/2012;5:33;2/15/2012;17:30;Puget Sound Energy;Port Orchard, Washington;0;0;vandalism, physical
+Suspected Physical Attack;2/14/2012;19:20;2/15/2012;16:00;Tacoma Power (TPWR);Tacoma, Washington;Unknown;Unknown;vandalism, physical
+Vandalism;2/15/2013;0:00;2/15/2013;12:01;Potomac Electric Power Company;Tuxedo, Maryland;Unknown;Unknown;vandalism
+Fuel Supply Emergency - Petroleum;2/13/2013;17:39;2/15/2013;17:50;Footprint Power Salem Harbor Operations LLC;Eastern Massachusetts;1;1;fuel supply emergency, petroleum
+Severe Weather - Snow/Ice;2/12/2014;12:10;2/15/2014;15:20;Duke Energy Progress;North Carolina;Unknown;200000;severe weather, winter storm
+Severe Weather - Snow/Ice;2/12/2014;11:03;2/15/2014;8:40;South Carolina Electric and Gas;South Carolina;700;120124;severe weather, winter storm
+Severe Weather - Snow/Ice;2/12/2014;7:48;2/15/2014;4:30;Southern Company;Northern/Northeastern Georgia;1246;373835;severe weather, winter storm
+Vandalism;2/16/2013;7:54;2/16/2013;7:54;Potomac Electric Power Company;Prince George's County Maryland;1;1;vandalism
+Suspected Cyber Attack;2/17/2012;3:00;2/17/2012;11:33;Entergy Services, Inc;Little Rock, Arkansas;Unknown;Unknown;vandalism, cyber
+Physical Attack - Vandalism;2/18/2014;18:43;2/18/2014;18:44;PacifiCorp;Bend, Oregon;Unknown;Unknown;vandalism, physical
+Vandalism;2/19/2011;16:34;2/19/2011;16:34;Delmarva Power & Light Company;Harrington, Delaware;0;0;vandalism
+Major Storm;2/17/2011;1:25;2/19/2011;10:13;Pacific Gas and Electric;Northern and Central California;91;80000;severe weather, storm
+Generation Inadequacy/Load Shed;2/2/2011;7:24;2/2/2011;22:23;El Paso Electric Company;Dona Ana and El Paso Counties, Texas and Hudspeth County, New Mexico;280;178000;load shedding
+Generation Inadequacy/Load Shed;2/2/2011;6:22;2/2/2011;9:57;Salt River Project;Central Arizona;3963;69000;load shedding
+Winter Storm;2/1/2011;21:00;2/2/2011;14:00;Exelon Corp/ComEd - Commonwealth Edison;Northern Illinois;Unknown;190000;severe weather, winter storm
+Vandalism;2/2/2013;21:15;2/2/2013;22:15;El Paso Electric Co.;El Paso, New Mexico;Unknown;Unknown;vandalism
+Major Storm;2/19/2011;12:30;2/20/2011;4:00;Exelon Corporation/PECO;Philadelphia area, Pennsylvania;Unknown;118000;severe weather, storm
+Electrical System Separation (Islanding);2/19/2013;16:01;2/20/2013;0:55;Pacific Gas & Electric Co.;Stockton, California;13850;6810;islanding
+Severe Weather - Winter Storm;2/19/2012;17:00;2/21/2012;7:33;American Electric Power;Kentucky, Virginia, West Virginia;Unknown;90000;severe weather, winter storm
+Vandalism;2/21/2013;11:00;2/21/2013;11:30;El Paso Electric;Las Cruces, New Mexico;Unknown;Unknown;vandalism
+Severe Weather - Thunderstorms/High Winds;2/21/2014;2:53;2/21/2014;21:00;Southern Company;Northern/Northeastern Georgia;221;66445;severe weather, thunderstorm, wind
+Severe Weather - Snow/Ice;2/20/2014;16:40;2/21/2014;23:59;Ameren Missouri;Missouri, Illinois;Unknown;66000;severe weather, winter storm
+Winter Storm;2/20/2011;16:00;2/23/2011;16:00;Consumers Energy;Southern Lower Peninsula, Michigan;262;160000;severe weather, winter storm
+Suspected Cyber Attack;2/17/2011;13:00;2/23/2011;16:53;City of Roseville (Roseville Electric);Roseville, California;0;0;vandalism, cyber
+Suspected Physical Attack;2/23/2012;5:45;2/23/2012;15:02;City of College Station;South East College Station, Texas;0;0;vandalism, physical
+Fuel Supply Emergency - Coal;2/5/2014;7:00;2/23/2014;7:00;Upstate New York Power Producers;New York;300;Unknown;fuel supply emergency, coal
+Electrical System Separation (Islanding);2/24/2011;16:51;2/24/2011;16:54;American Electric Power (CSWS-SPP);Arkansas;4;Unknown;islanding
+Suspected Physical Attack;2/24/2012;11:24;2/24/2012;11:49;Tacoma Power (TPWR);Spanaway, Washington;Unknown;Unknown;vandalism, physical
+Suspected Physical Attack;2/23/2012;23:12;2/24/2012;1:00;ISO New England;Londonderry, New Hampshire;0;0;vandalism, physical
+Severe Weather;2/25/2011;15:20;2/25/2011;18:00;Dominion - Virginia Power;Virginia;Unknown;50000;severe weather
+Vandalism;2/25/2011;10:30;2/25/2011;10:45;PacifiCorp;Salt Lake City, Utah;0;0;vandalism
+Interruption of Firm Load;2/27/2002;10:48;2/27/2002;11:35;San Diego Gas & Electric;California;300;255000;load shedding
+Severe Weather;2/25/2011;15:23;2/27/2011;18:00;Baltimore Gas & Electric;Maryland;Unknown;93000;severe weather
+Winter Storm;2/25/2011;8:00;2/28/2011;17:30;Pacific Gas and Electric;Northern and Central California;91;80000;severe weather, winter storm
+Suspected Physical Attack;2/28/2012;7:00;2/28/2012;7:00;Coos Curry Electric Cooperative;Coos County Oregon;Unknown;Unknown;vandalism, physical
+Electrical System Separation (Islanding);2/28/2012;2:59;2/28/2012;6:12;Pacific Gas and Electric;Sacramento, California;1;1;islanding
+Suspected Cyber Attack;2/3/2011;14:30;2/3/2011;14:30;Potomac Electric Power Co/PEPCO Holdings Inc.;Bowie, Maryland;Unknown;0;vandalism, cyber
+Fuel Supply Deficiency (Natural Gas);2/2/2011;17:00;2/3/2011;22:00;Southwestern Public Service;Texas Panhandle, Southeastern New Mexico;Unknown;Unknown;fuel supply emergency, natural gas
+Generation Inadequacy/Load Shed;2/2/2011;5:43;2/3/2011;10:00;ERCOT ISO;Texas;4000;1069730;load shedding
+Winter Storm;2/1/2011;15:00;2/3/2011;0:00;American Electric Power - Ohio;Indiana, Ohio;Unknown;158013;severe weather, winter storm
+Ice Storm;1/31/2011;22:00;2/3/2011;0:00;Duke Energy Midwest;Southwestern Ohio and Indiana;996;272880;severe weather, winter storm
+Generation Inadequacy/Load Shed;2/3/2011;22:04;2/4/2011;0:32;ERCOT ISO;Texas;400;86013;load shedding
+Fuel Supply Deficiency (Natural Gas);2/3/2011;15:00;2/4/2011;0:00;San Diego Gas and Electric Company;San Diego area, California;Unknown;Unknown;fuel supply emergency, natural gas
+Winter Storm;2/2/2011;3:00;2/4/2011;23:59;Exelon Corporation/PECO;Philadelphia area, Pennsylvania;Unknown;213000;severe weather, winter storm
+Severe Weather - Ice;2/5/2014;8:05;2/5/2014;8:06;Baltimore Gas & Electric Company;Baltimore, Maryland;800;181000;severe weather, winter storm
+Severe Weather - Snow/Ice;2/5/2014;5:00;2/5/2014;5:01;Exelon Corporation/PECO;Pennsylvania;Unknown;715000;severe weather, winter storm
+Fuel Supply Emergency - Natural Gas;2/6/2014;13:00;2/6/2014;22:00;California ISO;California;4000;Unknown;fuel supply emergency, natural gas
+Public Appeal to Reduce Electricity Usage;2/6/2014;13:58;2/6/2014;20:40;American Electric Power;Rio Grande Valley Texas;Unknown;Unknown;public appeal
+Fuel Supply Emergency - Natural Gas;2/6/2014;14:15;2/6/2014;19:39;Southern California Edison;California;611;Unknown;fuel supply emergency, natural gas
+Fuel Supply Emergency - Natural Gas;2/6/2014;13:05;2/6/2014;19:15;Pacific Gas & Electric Co;Northern California;160;Unknown;fuel supply emergency, natural gas
+Ice Storm;1/30/2002;6:00;2/7/2002;0:00;Oklahoma Gas & Electric;Oklahoma;500;1881134;severe weather, winter storm
+Vandalism;2/7/2013;8:32;2/7/2013;9:47;Duke Energy Ohio Inc;Cincinnati, Ohio;Unknown;0;vandalism
+Public Appeal to Reduce Electricity Usage;2/7/2014;16:50;2/7/2014;20:30;American Electric Power;Texas;Unknown;Unknown;public appeal
+Public Appeal to Reduce Electricity Usage;2/6/2014;15:35;2/7/2014;11:30;ERCOT;ERCOT Region Texas;Unknown;Unknown;public appeal
+Severe Weather - Snow/Ice;2/5/2014;7:35;2/7/2014;4:03;PPL Electric Utilities Corp;Lancaster Region, Pennsylvania;Unknown;62159;severe weather, winter storm
+Equipment Trip & Failure;2/8/2013;11:38;2/8/2013;14:17;Potomac Electric Power Company;District of Columbia, Prince George's County Maryland;140;52000;equipment failure
+Public Appeal to Reduce Electricity Usage;2/7/2014;16:30;2/8/2014;9:00;ERCOT;ERCOT Region Texas;Unknown;Unknown;public appeal
+Vandalism;2/9/2011;14:54;2/9/2011;17:00;Tacoma Power - TPWR;University Place, Washington;0;0;vandalism
+Winter Storm;2/9/2011;3:45;2/9/2011;9:12;CenterPoint Energy;Western Houston, Texas;399;60000;severe weather, winter storm
+Vandalism, Equipment Fault;2/9/2013;8:30;2/9/2013;15:00;El Paso Electric Co.;El Paso, New Mexico;Unknown;Unknown;vandalism, equipment failure
+Severe Weather - Snow/Ice;2/5/2014;1:00;2/9/2014;20:40;FirstEnergy Corp: Met-Ed;Pennsylvania;Unknown;144000;severe weather, winter storm
+Severe Weather - Snow/Ice;2/5/2014;0:00;2/9/2014;18:00;FirstEnergy Corp: Potomac Edison;Maryland, West Virginia;Unknown;101580;severe weather, winter storm
+Severe Weather - Winter Storm Nemo;2/26/2013;13:00;3/1/2013;10:00;Associated Electric Coop, Inc;Northern Missouri;Unknown;56444;severe weather, winter storm
+Severe Weather;3/9/2002;0:00;3/11/2002;0:00;Consumers Energy Co.;Lower Peninsula of Michigan;190;190000;severe weather
+Generation Inadequacy/Load Shed;3/11/2011;7:02;3/11/2011;9:15;Pacific Gas and Electric;Humboldt and Eureka, California;15;6800;load shedding
+Suspected Physical Attack;3/10/2011;12:03;3/11/2011;6:00;ERCOT ISO;Texas;Unknown;Unknown;vandalism, physical
+Severe Weather - High Winds;3/12/2014;19:35;3/13/2014;0:00;Duke Energy Carolinas;North Carolina;250;61377;severe weather, wind
+Suspected Physical Attack;3/11/2014;0:00;3/13/2014;12:00;ITC Midwest LLC;Boone County, Iowa;Unknown;Unknown;vandalism, physical
+Suspected Cyber Attack;3/14/2011;7:30;3/14/2011;16:55;Baltimore Gas & Electric;Baltimore, Maryland;Unknown;Unknown;vandalism, cyber
+Severe Weather;3/13/2011;14:20;3/14/2011;15:46;PacifiCorp;Oregon;Unknown;9000;severe weather
+Physical Attack - Vandalism;3/14/2014;12:34;3/14/2014;16:45;ITC Holdings;Boone County, Iowa;Unknown;Unknown;vandalism, physical
+Suspected Physical Attack;3/15/2011;18:00;3/15/2011;19:14;Entergy Services, Incorporated;The Woodlands, Texas;Unknown;Unknown;vandalism, physical
+Suspected Physical Attack;3/16/2012;16:00;3/16/2012;16:00;Delmarva Power & Light Company;New Castle, Delaware;0;0;vandalism, physical
+Vandalism;3/17/2011;7:40;3/17/2011;11:00;ISO New England;Deerfield, New Hampshire;Unknown;Unknown;vandalism
+Fuel Supply Emergency - Coal;3/4/2014;9:06;3/17/2014;9:06;Wisconsin Public Service Corp;Weston, Wisconsin;Unknown;Unknown;fuel supply emergency, coal
+Fuel Supply Deficiency (Coal);3/8/2011;8:00;3/18/2011;9:00;AES Somerset;Western New York;676;Unknown;fuel supply emergency, coal
+Vandalism;3/18/2011;9:54;3/18/2011;15:34;Dayton Power & Light;Greene County, Ohio;Unknown;Unknown;vandalism
+Suspected Physical Attack;3/18/2013;17:50;3/18/2013;18:07;Jacksonville Electric Authority (JEA);Northeast Florida;0;0;vandalism, physical
+Generator Trip, Load Shed;3/18/2013;5:21;3/18/2013;5:41;Puerto Rico Electric Power Authority;Systemwide Puerto Rico;350;262937;load shedding, generator trip
+Physical Attack - Sabatoge;3/17/2014;17:25;3/18/2014;12:56;Arizona Public Service Co;Glendale, Arizona;Unknown;Unknown;vandalism
+Operational Failure/Equipment Malfunction;3/2/2012;13:45;3/2/2012;15:30;City of Piggott, Arkansas;Piggott, Arkansas;Unknown;Unknown;equipment failure
+Severe Weather - Thunderstorms;3/20/2012;8:00;3/20/2012;13:00;CenterPoint Energy;Houston, Texas;Unknown;96000;severe weather, thunderstorm
+Severe Weather - Thunderstorms;3/18/2013;19:30;3/20/2013;14:30;Southern Company;North/Central Alabama, Georgia;800;240000;severe weather, thunderstorm
+Suspected Cyber Attack;3/20/2014;0:00;3/20/2014;12:01;NRG Energy Inc 2;New York;Unknown;Unknown;vandalism, cyber
+Major Storm;3/21/2011;12:35;3/21/2011;14:45;Southern California Edison Company (SCE);Southern California;150;54332;severe weather, storm
+Vandalism;3/21/2011;0:57;3/21/2011;2:29;ISO New England;Deerfield, New Hampshire;Unknown;Unknown;vandalism
+Major Storm;3/20/2011;9:44;3/21/2011;10:00;Los Angeles Department of Water and Power;Los Angeles, California;Unknown;79000;severe weather, storm
+Fuel Supply Emergency - Coal;2/7/2014;7:00;3/21/2014;8:00;Somerset Operating Company, LLC;Niagara County New York;675;Unknown;fuel supply emergency, coal
+Suspected Physical Attack;3/23/2012;19:34;3/23/2012;19:34;Delmarva Power & Light Company;Newark, Delaware;0;0;vandalism, physical
+Vandalism;3/23/2013;7:00;3/23/2013;9:00;ISO New England;Connecticut;Unknown;Unknown;vandalism
+Major Storm;3/23/2011;18:30;3/24/2011;4:55;American Electric Power - AEP;Indiana. Kentucky, Michigan, Ohio, Tennessee, Virginia, West Virginia;Unknown;60596;severe weather, storm
+Major Storm;3/19/2011;23:56;3/24/2011;19:10;Pacific Gas and Electric;Northern and Central California;91;128000;severe weather, storm
+Physical Attack - Vandalism;3/24/2014;11:07;3/24/2014;11:08;PacifiCorp;Salt Lake City, Utah;Unknown;Unknown;vandalism, physical
+Suspected Physical Attack;3/26/2012;13:24;3/26/2012;13:24;Tacoma Power (TPWR);Tacoma, Washington;Unknown;Unknown;vandalism, physical
+Electrical System Separation (Islanding);3/26/2014;13:37;3/26/2014;14:33;Peak Reliability;Montana;Unknown;Unknown;islanding
+Transmission Level Outage;3/27/2011;13:27;3/27/2011;17:00;Pacific Gas and Electric;Sonoma and Central Valley, California;295;165000;transmission interruption
+Physical Attack, Vandalism;3/27/2013;10:25;3/27/2013;12:19;ISO New England;Western Massachusetts;Unknown;Unknown;vandalism, physical
+Suspected Physical Attack;3/28/2012;10:17;3/28/2012;10:17;Tacoma Power (TPWR);Graham, Washington;Unknown;Unknown;vandalism, physical
+Vandalism;3/28/2013;13:01;3/28/2013;13:02;Delmarva Power & Light Company;Wilmington, Delaware;Unknown;Unknown;vandalism
+Electrical System Separation (Islanding);3/29/2012;0:01;3/29/2012;0:02;Lansing Board of Water & Light;Lansing, Michigan;Unknown;0;islanding
+Suspected Physical Attack;3/29/2013;10:16;3/29/2013;10:17;Baltimore Gas and Electric;Maryland;Unknown;Unknown;vandalism, physical
+Vandalism;3/3/2013;16:27;3/3/2013;18:20;Potomac Electric Power Company;Tacoma Park, Maryland;Unknown;Unknown;vandalism
+Transmission System Interruption;3/3/2013;6:39;3/3/2013;10:29;Pacific Gas & Electric Co;Merced County, California;300;58850;transmission interruption
+Suspected Physical Attack;3/3/2014;17:25;3/3/2014;17:25;Orange and Rockland Utilities, Inc.;New York;Unknown;Unknown;vandalism, physical
+Severe Weather - Winter Storm;3/3/2014;6:40;3/3/2014;15:28;Tennessee Valley Authority;Tennessee;Unknown;65904;severe weather, winter storm
+Fuel Supply Emergency - Hydro;3/3/2014;1:48;3/3/2014;1:49;Public Utility District #1 of Chelan County (CHPD);Mid-Columbia River Generation, Washington;630;Unknown;fuel supply emergency, hydro
+Suspected Physical Attack;3/30/2012;11:10;3/30/2012;11:30;ISO New England;Vermont;Unknown;Unknown;vandalism, physical
+Severe Weather;3/31/2011;11:30;3/31/2011;20:30;Tampa Electric Company;Greater Tampa Bay, Florida;206;87000;severe weather
+System Wide Voltage Reduction;3/31/2014;15:41;3/31/2014;20:08;Puerto Rico Electric Power Authority;Puerto Rico;Unknown;Unknown;voltage reduction
+Suspected Physical Attack;3/4/2012;1:27;3/4/2012;6:58;Potomac Electric Power (Pepco Holdings Inc.);Prince Georges County, Maryland;Unknown;Unknown;vandalism, physical
+Severe Weather - Winter Storm;3/2/2012;21:00;3/4/2012;17:30;Consumers Energy;Lower Peninsula, Michigan;50;140000;severe weather, winter storm
+Equipment Failure, Transmission System Interruption;3/4/2013;9:49;3/4/2013;22:00;Puerto Rico Electric Power Authority;Metropolitan area Puerto Rico;Unknown;Unknown;equipment failure, transmission interruption
+Public Appeal due to Severe Weather - Cold;3/2/2014;19:00;3/4/2014;9:00;ERCOT;ERCOT Region Texas;Unknown;Unknown;severe weather, cold
+Fuel Supply Deficiency (Coal);3/1/2011;8:00;3/5/2011;9:30;AES Somerset;Western New York;675;Unknown;fuel supply emergency, coal
+Suspected Physical Attack;3/4/2012;13:38;3/5/2012;11:00;Entergy Corporation;Texas;Unknown;Unknown;vandalism, physical
+Severe Weather - Winter Storm;3/2/2012;21:00;3/5/2012;16:30;Detroit Edison, Subsidiary of DTE Energy;Southeastern, Michigan;371;130000;severe weather, winter storm
+Severe Weather - Tornadoes;3/2/2012;12:37;3/5/2012;0:01;Tennessee Valley Authority (TVA);Northern Alabama, Southeast Tennessee;500;Unknown;severe weather, tornado
+Physical Attack;3/5/2014;17:06;3/5/2014;17:07;PacifiCorp;Salt Lake City, Utah;Unknown;Unknown;vandalism, physical
+Severe Weather - Winter Storm;3/6/2013;8:22;3/7/2013;10:27;Dominion Virginia Power;Northwest Virginia;400;233000;severe weather, winter storm
+Severe Weather - Winter Storm;3/7/2014;3:30;3/7/2014;21:00;Duke Energy Carolinas;Triad, North Carolina;1500;370900;severe weather, winter storm
+Vandalism;3/6/2011;2:54;3/8/2011;8:00;PacifiCorp;Salt Lake City Region, Utah;Unknown;0;vandalism
+Severe Weather;3/31/2011;14:30;4/1/2011;23:59;Progress Energy Florida (PEF);Central and Western Florida;Unknown;50000;severe weather
+Vandalism - Copper Wire Theft;4/1/2013;8:40;4/1/2013;8:41;ISO New England;Connecticut;Unknown;Unknown;vandalism, physical
+Physical Attack;3/26/2014;16:00;4/10/2014;0:00;ITC Midwest LLC;Iowa;Unknown;Unknown;vandalism, physical
+Suspicious Activity;4/11/2011;17:40;4/11/2011;17:51;PacifiCorp;Salt Lake City, Utah;0;0;vandalism
+Vandalism;4/11/2012;9:00;4/11/2012;9:00;North Attleborough Electric Department;North Attleboro, Massachusetts;0;0;vandalism
+Suspected Physical Attack;4/12/2012;8:08;4/12/2012;16:30;Tacoma Power (TPWR);Tacoma, Washington;Unknown;Unknown;vandalism, physical
+Severe Weather - Thunderstorms;4/12/2014;18:15;4/14/2014;9:00;Consumers Energy;Western and Central Michigan;Unknown;50000;severe weather, thunderstorm
+Suspected Physical Attack;4/15/2012;19:38;4/15/2012;21:26;Southern Company;Georgia;Unknown;Unknown;vandalism, physical
+Severe Weather;4/12/2014;20:00;4/15/2014;19:30;Detroit Edison Company;Michigan;Unknown;164000;severe weather
+Severe Weather;4/16/2011;14:16;4/17/2011;16:30;Progress Energy Carolinas Inc;Central and Eastern North Carolina;Unknown;220000;severe weather
+Suspected Physical Attack;4/17/2012;6:11;4/17/2012;17:48;San Diego Gas & Electric Company;San Diego County, California;0;0;vandalism, physical
+Suspected Physical Attack;4/17/2013;15:36;4/17/2013;16:53;Tennessee Valley Authority;Colbert Steam Plant in Cherokee, Alabama;Unknown;Unknown;vandalism, physical
+Loss of Part of a High Voltage Substation, Physical Attack;4/16/2013;1:47;4/18/2013;15:25;Pacific Gas & Electric Co;California;Unknown;0;vandalism
+Severe Weather;4/19/2011;20:00;4/19/2011;22:00;Ameren Illinois;Illinois;Unknown;80000;severe weather
+Vandalism;4/19/2011;14:01;4/19/2011;16:04;Tacoma Power Water Rail (TPWR);Graham, Washington;0;0;vandalism
+Suspected Physical Attack;4/19/2012;7:53;4/19/2012;16:00;Tacoma Power (TPWR);Tacoma, Washington;Unknown;Unknown;vandalism, physical
+Severe Weather - High Winds;4/16/2012;15:46;4/19/2012;2:00;Detroit Edison, Subsidiary of DTE Energy;Southeast, Michigan;218;111393;severe weather, wind
+Equipment Malfunction;4/20/2011;8:07;4/20/2011;8:14;City of Ruston & Constellation Energy;Ruston, Louisiana;33;11000;equipment failure
+Severe Weather;4/19/2011;23:13;4/20/2011;19:14;Constellation Energy Control and Dispatch;Osceola, Arkansas;22;Unknown;severe weather
+Severe Weather;4/19/2011;22:44;4/20/2011;2:00;Memphis Light Gas and Water Division;Memphis, Tennessee;100;64000;severe weather
+Vandalism;4/21/2011;7:15;4/21/2011;16:50;PacifiCorp;Oquirrh Substation, Salt Lake City, Utah;0;0;vandalism
+Severe Weather - High Winds;4/20/2011;2:00;4/21/2011;0:00;Duke Energy Midwest;Indiana, Kentucky, Ohio;Unknown;165711;severe weather, wind
+Severe Weather;4/19/2011;23:02;4/21/2011;17:32;Tennessee Valley Authority;Memphis, Tennessee;300;105000;severe weather
+Physical Attack;4/21/2012;15:02;4/21/2012;20:09;ISO New England;East Bridgewater, Massachusetts;Unknown;Unknown;vandalism, physical
+Severe Weather - Thunderstorms;4/20/2012;14:27;4/21/2012;4:27;CenterPoint Energy;Metropolitan Houston, Texas;Unknown;120377;severe weather, thunderstorm
+Suspected Physical Attack;4/21/2013;2:11;4/21/2013;12:30;Tennessee Valley Authority;East Tennessee;Unknown;Unknown;vandalism, physical
+Severe Weather - Storms and Wind;4/18/2013;15:00;4/21/2013;3:30;Detroit Edison Co;Southeast Michigan, Michigan;Unknown;99188;severe weather, wind
+Severe Weather;4/22/2011;21:00;4/22/2011;23:00;Ameren;Metro St. Louis area, Missouri;0;55000;severe weather
+Suspected Physical Attack;4/23/2012;11:56;4/23/2012;15:35;Seattle City Light;Snohomish County, Washington;Unknown;Unknown;vandalism, physical
+Suspected Physical Attack;4/23/2012;8:11;4/23/2012;12:47;Northern Indiana Public Service Company (NIPSCO);Northwest Indiana;Unknown;Unknown;vandalism, physical
+Suspected Physical Attack;4/21/2012;20:55;4/23/2012;16:30;Tacoma Power (TPWR);Tacoma, Washington;Unknown;Unknown;vandalism, physical
+Vandalism;4/23/2013;11:00;4/23/2013;11:01;Delmarva Power & Light Company;Newark, Delaware;Unknown;Unknown;vandalism
+Electrical System Separation (Islanding);4/23/2013;0:49;4/23/2013;4:04;Pacific Gas & Electric Co;South of Humboldt, California;80;1;islanding
+Load shedding of 100 Megawatts;4/23/2014;19:45;4/23/2014;20:37;MISO / Entergy Transmission;Baton Rouge, Louisiana;163;28000;load shedding
+Electrical System Separation (Islanding);4/24/2014;15:02;4/24/2014;17:13;Peak Reliability;Alberta, Canada;Unknown;Unknown;islanding
+Equipment Malfunction;4/25/2011;16:33;4/25/2011;17:19;Tennessee Valley Authority;Northeast Tennessee;140;Unknown;equipment failure
+Physical Attack - Vandalism;4/25/2014;7:00;4/25/2014;7:30;Delmarva Power & Light Company;Delaware;Unknown;Unknown;vandalism, physical
+Vandalism;4/26/2011;13:04;4/26/2011;14:00;PacifiCorp;Salt Lake City, Utah;0;0;vandalism
+Vandalism;4/25/2013;16:00;4/26/2013;10:55;City and County of San Francisco;Sunol, California;0;0;vandalism
+Severe Weather;4/26/2011;5:49;4/27/2011;9:59;Entergy Corporation;Southern Louisiana;120;Unknown;severe weather
+Severe Weather;4/25/2011;17:30;4/27/2011;18:00;Entergy Corporation;Arkansas, Louisiana, Mississippi;Unknown;141700;severe weather
+Physical Attack - Vandalism;4/27/2014;0:07;4/27/2014;0:09;PacifiCorp;Albany, Oregon;Unknown;Unknown;vandalism, physical
+Equipment Malfunction;4/28/2011;16:09;4/28/2011;16:10;Mesquite Power, LLC;Phoenix, Arizona;960;Unknown;equipment failure
+Severe Weather;4/27/2011;22:00;4/28/2011;10:00;American Electric Power;Ohio, Tennessee, Virginia;0;69000;severe weather
+Severe Weather;4/26/2011;18:14;4/28/2011;17:00;West Memphis Utilities;Eastern Arkansas;50;13000;severe weather
+Severe Weather;4/26/2011;9:51;4/28/2011;9:51;Tennessee Valley Authority;Alabama, Georgia, Mississippi, Tennessee;Unknown;55000;severe weather
+Severe Weather;4/27/2011;10:00;4/29/2011;16:29;Tennessee Valley Authority;Alabama, Georgia, Mississippi, Tennessee;Unknown;612000;severe weather
+Suspicious Activity;4/21/2011;19:00;4/29/2011;19:05;ITC Holdings;Trenton, Michigan;Unknown;Unknown;vandalism
+Severe Weather - Thunderstorms;4/29/2014;23:30;4/29/2014;23:30;Southern Company;Mississippi, Alabama;355;106648;severe weather, thunderstorm
+Physical Attack;4/3/2012;15:33;4/3/2012;20:25;Seattle City Light;Seattle, Washington;0;0;vandalism, physical
+Vandalism;4/3/2012;11:10;4/3/2012;11:25;ISO New England;West Rutland, Vermont;0;0;vandalism
+Vandalism;4/1/2012;20:27;4/3/2012;8:28;Mid American Energy Company;Council Bluffs, Iowa;0;0;vandalism
+Sabotage, Vandalism;4/3/2013;11:05;4/3/2013;14:00;Colorado Springs Utilities;Colorado Springs, Colorado;0;0;vandalism
+Severe Weather;4/28/2011;5:00;4/30/2011;18:30;FirstEnergy Service Company;Cleveland area, Ohio;Unknown;86000;severe weather
+Severe Weather - Thunderstorms;4/30/2014;3:50;4/30/2014;14:00;Southern Company;Alabama, Florida, Georgia;296;89000;severe weather, thunderstorm
+Severe Weather - Wind;4/4/2014;3:30;4/4/2014;8:15;Entergy Services, Inc.;Central Arkansas;Unknown;57200;severe weather, wind
+Severe Weather;4/4/2011;21:00;4/5/2011;23:30;Southern Company;Alabama, Florida, Georgia, Mississippi;674;303434;severe weather
+Severe Weather;4/4/2011;19:00;4/5/2011;20:00;Entergy Corporation;Southeast Arkansas, Southeast Louisiana, Western Mississippi, Eastern Texas;Unknown;74645;severe weather
+Severe Weather;4/4/2011;19:00;4/5/2011;0:00;American Electric Power (AEP);Kentucky, West Virginia;Unknown;52920;severe weather
+Severe Weather;4/4/2011;13:00;4/5/2011;12:00;Memphis Light Gas and Water Division;Shelby County, Tennessee;300;63000;severe weather
+Suspected Cyber Attack;4/3/2011;20:23;4/5/2011;15:00;Entergy Corporation;Unknown;0;0;vandalism, cyber
+Vandalism;4/6/2011;10:50;4/6/2011;10:50;Delmarva Power & Light Company;Felton, Delaware;0;0;vandalism
+Suspected Physical Attack;4/4/2012;15:32;4/6/2012;15:30;Western Area Power Authority - Sierra Nevada Region (WASN);WAPA-SNR Regional Office, California;Unknown;Unknown;vandalism, physical
+Severe Weather;4/5/2011;2:00;4/7/2011;23:00;Duke Energy Carolinas;North Carolina, South Carolina;1200;256000;severe weather
+Physical Attack;4/7/2012;14:35;4/7/2012;14:36;Delmarva Power & Light Company;Newark, Delaware;0;0;vandalism, physical
+Physical Attack;4/7/2012;0:25;4/7/2012;0:26;Delmarva Power & Light Company;Newark, Delaware;0;0;vandalism, physical
+Physical Attack;4/7/2012;9:31;4/7/2012;9:32;Delmarva Power & Light Company;Newark, Delaware;0;0;vandalism, physical
+Severe Weather;4/4/2011;14:00;4/8/2011;12:01;Tennessee Valley Authority;Davidson County, Tennessee;300;73000;severe weather
+Severe Weather;4/4/2011;11:47;4/8/2011;12:01;Tennessee Valley Authority;Memphis, Tennessee;359;63000;severe weather
+Physical Attack - Vandalism;4/8/2014;13:00;4/8/2014;13:01;Western Area Power Administration, Sierra Nevada Region;Davis, California;Unknown;Unknown;vandalism, physical
+Voltage Reduction;4/8/2014;11:09;4/8/2014;11:20;Puerto Rico Electric Power Authority;Puerto Rico;Unknown;Unknown;voltage reduction
+Vandalism;4/9/2013;11:30;4/9/2013;11:31;Delmarva Power & Light Company;Delaware City, Delaware;Unknown;Unknown;vandalism
+Fuel Supply Emergency - Coal;4/3/2014;14:45;4/9/2014;11:53;We Energies;Wisconsin;Unknown;Unknown;fuel supply emergency, coal
+Fuel Supply Emergency - Coal;1/24/2014;0:00;4/9/2014;11:53;We Energies;Wisconsin;Unknown;Unknown;fuel supply emergency, coal
+Electrical System Separation (Islanding);5/1/2013;9:22;5/1/2013;9:24;Xcel Energy/Public Service Company of Colorado;Northeast Colorado;123;35230;islanding
+Severe Weather - Thunderstorms;4/29/2014;9:37;5/1/2014;9:00;Tennessee Valley Authority;Northeastern Mississippi, Northern Alabama;Unknown;57000;severe weather, thunderstorm
+Vandalism;5/10/2011;13:45;5/10/2011;15:00;ISO New England;New Hampshire;0;0;vandalism
+Severe Weather;5/11/2011;0:15;5/11/2011;17:20;Duke Energy Carolinas;Charlotte, North Carolina;300;71000;severe weather
+Vandalism;5/11/2011;13:35;5/11/2011;13:35;PacifiCorp;Green River, Wyoming;0;0;vandalism
+Vandalism;5/11/2011;11:00;5/11/2011;11:30;Central Hudson Gas & Electric Corp.;North Chelsea Substation, New York;0;0;vandalism
+Severe Weather;5/10/2011;22:21;5/11/2011;14:25;American Electric Power;Kentucky, West Virginia;Unknown;58000;severe weather
+Generation Inadequacy, Load Shed, Electrical System Separation (Islanding);5/10/2011;3:25;5/11/2011;14:10;Midwest Independent System Operator (MISO);Upper Peninsula, Michigan;585;78213;load shedding, islanding
+Vandalism;5/11/2012;11:05;5/11/2012;11:20;Tacoma Power (TPWR);Lakewood, Washington;Unknown;Unknown;vandalism
+Physical Attack - Vandalism;5/11/2014;18:38;5/11/2014;18:39;Great River Energy;MISO North, Minnesota;Unknown;Unknown;vandalism, physical
+Severe Weather - Heavy Winds;5/9/2014;18:00;5/11/2014;13:00;Vectren Energy Delivery of Indiana;Indiana;Unknown;56000;severe weather, wind
+Vandalism;5/11/2011;15:55;5/12/2011;13:57;Minnesota Power;Colbyville, Haines Road and Arrowhead Substations, Minnesota;0;0;vandalism
+Physical Attack - Vandalism;5/12/2014;13:14;5/12/2014;13:15;PacifiCorp;Layton, Utah;Unknown;Unknown;vandalism, physical
+Vandalism;5/13/2011;6:00;5/13/2011;6:00;PacifiCorp;Salt Lake, Utah;0;0;vandalism
+Vandalism/Theft;5/14/2013;0:01;5/14/2013;13:59;PacifiCorp;Portland, Oregon;Unknown;Unknown;vandalism, physical
+Vandalism;5/14/2013;10:25;5/14/2013;11:42;Northeast Utilities/Public Service of New Hampshire;New Hampshire;Unknown;Unknown;vandalism
+Vandalism;5/15/2013;14:11;5/15/2013;14:12;Delmarva Power & Light Company;Wilmington, Delaware;Unknown;Unknown;vandalism
+Suspected Physical Attack;5/15/2014;0:10;5/15/2014;0:13;Whiting Clean Energy, Inc.;Whiting, Indiana;Unknown;Unknown;vandalism, physical
+Public Appeal to Reduce Electricity Usage - Wild Fires;5/16/2014;10:43;5/16/2014;21:00;San Diego Gas & Electric Co;San Diego & Orange Counties, California;3900;1400000;wild fire, public appeal
+Vandalism;5/17/2013;8:35;5/17/2013;8:36;Delmarva Power & Light Company;Newcastle, Delaware;Unknown;Unknown;vandalism
+Severe Weather;5/2/2011;17:06;5/2/2011;20:00;Hawaiian Electric Company;Hawaii;220;62000;severe weather
+Suspected Physical Attack;5/2/2011;14:00;5/2/2011;14:00;The United Illuminating Company;West River Substation, New Haven, Connecticut;0;0;vandalism, physical
+Vandalism;5/2/2011;8:52;5/2/2011;10:46;PacifiCorp;N. Ogden Substation, Ogden, Utah;0;0;vandalism
+Severe Weather;4/27/2011;8:00;5/2/2011;16:03;Southern Company;Alabama, Florida, Georgia, Mississippi;1422;426640;severe weather
+Electrical System Separation (Islanding);5/2/2013;6:52;5/2/2013;10:07;WECC;Unknown;Unknown;Unknown;islanding
+Generator Trip, Load Shed 100+ MW;5/20/2013;17:22;5/20/2013;21:09;Entergy Transmission - SOC;Gonzales Area Louisiana;103;21800;load shedding, generator trip
+Physical Attack - Vandalism;5/20/2014;7:01;5/20/2014;7:02;PacifiCorp;Duchesne County, Utah;Unknown;Unknown;vandalism, physical
+Physical Attack;5/21/2011;17:00;5/22/2011;18:34;Terra-Gen Dixie Valley, LLC;Dixie Valley Area, Nevada;56;Unknown;vandalism, physical
+System Wide Voltage Reduction;5/22/2013;10:51;5/22/2013;10:57;Puerto Rico Electric Power Authority;System wide Puerto Rico;280;197287;voltage reduction
+Severe Weather - Tornados;5/20/2013;15:00;5/22/2013;17:00;Oklahoma Gas & Electric Co;Moore, Oklahoma;Unknown;41306;severe weather, tornado
+Severe Weather;5/24/2011;16:35;5/25/2011;0:40;Dominion Virginia Power;Eastern Virginia;790;175000;severe weather
+Physical Attack;5/24/2011;9:00;5/25/2011;9:10;Edison Mission Generation (Fisk Station);Chicago, Illinois;0;0;vandalism, physical
+Severe Weather;5/23/2011;16:45;5/25/2011;23:59;Duke Energy Midwest;Central, Indiana;1024;215387;severe weather
+Severe Weather;5/23/2011;12:30;5/25/2011;0:30;Ameren;St. Louis County, Missouri;Unknown;70000;severe weather
+Physical Attack;5/24/2012;15:20;5/25/2012;17:29;ISO New England;Tyngsborough, Massachusetts;Unknown;Unknown;vandalism, physical
+Physical Attack - Vandalism;5/23/2014;15:00;5/25/2014;19:00;Duke Energy Progress;North Carolina;Unknown;Unknown;vandalism, physical
+Transmission Level Interruption;5/26/2011;1:00;5/26/2011;6:00;Greenwood Utilities Commission;Greenwood, Mississippi;30;10000;transmission interruption
+Severe Weather;5/24/2011;16:45;5/26/2011;17:00;Oklahoma Gas & Electric;Central Oklahoma;Unknown;54000;severe weather
+Electrical System Separation (Islanding);5/26/2014;12:31;5/26/2014;13:18;Peak Reliability;British Columbia & Alberta, Canada;Unknown;Unknown;islanding
+Severe Weather;5/26/2011;19:56;5/27/2011;18:00;PPL Electric Utilities;Central Pennsylvania;150;120001;severe weather
+Physical Attack - Vandalism;5/27/2014;11:00;5/27/2014;16:53;Arizona Public Service Co;Phoenix, Arizona;Unknown;Unknown;vandalism, physical
+Severe Weather;5/26/2011;18:30;5/28/2011;4:44;Southern Company;Southern Balancing Area, Georgia;729;218783;severe weather
+Severe Weather;5/25/2011;22:14;5/28/2011;11:00;Duke Energy Midwest;Central Indiana;200;141000;severe weather
+Vandalism/Theft;5/28/2013;13:00;5/28/2013;18:00;ISO New England;Maine;Unknown;Unknown;vandalism, physical
+Physical Attack;5/29/2012;18:30;5/29/2012;19:40;Tacoma Power (TPWR);Alder Dam, Pierce County, Washington;Unknown;Unknown;vandalism, physical
+Vandalism/Theft;5/29/2013;9:52;5/29/2013;9:53;Delmarva Power & Light Company;Wilmington, Delaware;Unknown;Unknown;vandalism, physical
+Physical Attack;5/29/2013;0:00;5/29/2013;12:02;Dominion Virginia Power;Henrico County, Virginia;Unknown;Unknown;vandalism, physical
+Vandalism;5/30/2013;10:15;5/30/2013;10:16;New York Power Authority;Saranac, New York;Unknown;Unknown;vandalism
+Severe Weather;5/29/2011;18:30;5/31/2011;22:00;Consumers Energy;Mid and Southern Lower Peninsula, Michigan;250;113000;severe weather
+Severe Weather;5/22/2011;17:09;5/31/2011;0:01;Empire District Electric;Joplin, Sarcoxie, and Wentworth, Missouri;200;20000;severe weather
+Severe Weather - Thunderstorms;5/29/2012;20:35;5/31/2012;10:00;Oklahoma Gas & Electric;Oklahoma City Metro Area, Oklahoma;Unknown;112000;severe weather, thunderstorm
+Severe Weather - Lightning;5/31/2013;1:00;5/31/2013;1:30;Southwest Power Pool, Inc.;Maumelle, Arkansas;Unknown;Unknown;severe weather, thunderstorm
+Severe Weather - Thunderstorms;5/29/2013;20:58;5/31/2013;14:53;Niagara Mohawk Power Corp.;Central and Eastern New York;Unknown;61795;severe weather, thunderstorm
+Suspected Sabotage;5/4/2011;12:20;5/4/2011;15:40;ITC Holdings, Inc.;Michigan;0;0;vandalism
+Suspected Physical Attack;5/4/2011;13:08;5/4/2011;13:25;FirstEnergy Generation;Maryland;0;0;vandalism, physical
+Vandalism;5/5/2011;9:15;5/5/2011;9:15;ISO New England;New Hampshire;0;0;vandalism
+Suspected Physical Attack;5/3/2011;12:00;5/5/2011;0:00;New York Power Authority;St. Lawrence Power Dam, New York;0;0;vandalism, physical
+Vandalism;5/6/2011;6:56;5/6/2011;10:30;PacifiCorp;Alderwood Substation, Portland, Oregon;0;0;vandalism
+Load Shed/Severe Weather  - Lightning Storm;5/7/2012;17:45;5/7/2012;18:06;American Electric Power (AEP);Eastern Ohio;420;1;load shedding, severe weather, thunderstorm
+Vandalism;5/7/2012;12:50;5/7/2012;14:00;ISO New England;Williston, Vermont;0;0;vandalism
+Vandalism;5/8/2011;19:35;5/8/2011;19:35;Castleton Power, LLC;New York;Unknown;0;vandalism
+Physical Attack;5/8/2014;8:39;5/8/2014;8:40;CSolar IV South, LLC;Imperial Valley, California;Unknown;Unknown;vandalism, physical
+Physical Attack;5/8/2014;1:00;5/8/2014;1:01;Clarksdale Public Utilities;Mississippi;Unknown;Unknown;vandalism, physical
+Vandalism;5/9/2011;13:11;5/9/2011;13:11;Public Service of New Hampshire;Milton, New Hampshire;0;0;vandalism
+Suspected Physical Attack;5/9/2011;4:08;5/9/2011;6:40;Exelon Generation Company, LLC;Holtwood, Pennsylvania;630;Unknown;vandalism, physical
+Electrical System Separation (Islanding);5/9/2013;13:21;5/9/2013;16:21;WECC;Alberta, Canada, Washington State;Unknown;Unknown;islanding
+Physical Attack;5/31/2012;23:45;6/1/2012;4:30;American Electric Power (AEP);Columbus, Ohio;0;0;vandalism, physical
+Severe Weather - Thunderstorms;5/31/2013;19:30;6/1/2013;20:00;Ameren Missouri;St. Louis Metro Area Missouri;Unknown;100000;severe weather, thunderstorm
+Transmission System Interruption;5/31/2013;19:07;6/1/2013;14:15;Coffeyville Municipal Light and Power;Southeast Kansas, Northeast Oklahoma;102;6300;transmission interruption
+Severe Thunderstorms;6/9/2011;17:51;6/10/2011;0:00;ISO New England/Northeast Utilities;Western, Massachusetts, Connecticut;0;100000;severe weather, thunderstorm
+Physical Attack - Vandalism;6/11/2014;16:00;6/11/2014;16:30;South Mississippi El Pwr Assn;Southern Mississippi;Unknown;Unknown;vandalism, physical
+Suspected Physical Attack;6/11/2014;9:30;6/11/2014;9:31;Tucson Electric Power;Nogales, Arizona;Unknown;Unknown;vandalism, physical
+Severe Weather - Thunderstorms;6/10/2014;21:50;6/11/2014;14:30;American Electric Power;West Virginia;Unknown;66383;severe weather, thunderstorm
+Severe Thunderstorms;6/12/2011;19:00;6/12/2011;20:30;Dominion Virginia Power;Virginia;250;56000;severe weather, thunderstorm
+Severe Weather - Thunderstorms;6/11/2012;19:50;6/12/2012;15:00;Southern Company;North/Central Alabama, North/Central Georgia;368;110591;severe weather, thunderstorm
+Suspected Physical Attack;6/12/2014;9:10;6/12/2014;9:11;Luminant Energy Company, LLC;Somervell County, Texas;Unknown;Unknown;vandalism, physical
+Vandalism;6/13/2012;16:55;6/13/2012;22:09;Public Service Company of New Mexico;San Juan County, New Mexico;0;0;vandalism
+Loss of 300+ MW Load, Severe Weather - Thunderstorms;6/13/2013;15:30;6/13/2013;16:00;Potomac Electric Power Company;District of Columbia, Maryland;700;40000;severe weather, thunderstorm
+Severe Weather - Thunderstorms;6/12/2012;15:57;6/14/2012;4:57;CenterPoint Energy;Houston, Texas;920;175000;severe weather, thunderstorm
+Severe Weather - Thunderstorms;6/13/2013;20:47;6/14/2013;22:47;Southern Company;Southern Company Territory;550;165798;severe weather, thunderstorm
+Severe Weather - Thunderstorms;6/13/2013;15:20;6/14/2013;21:10;American Electric Power;Ohio, Virginia, West Virginia;Unknown;90247;severe weather, thunderstorm
+Severe Weather - Thunderstorms;6/13/2013;17:45;6/14/2013;18:30;Duke Energy Progress;Central and Eastern North Carolina;Unknown;53000;severe weather, thunderstorm
+Severe Weather - Thunderstorms;6/13/2013;13:17;6/14/2013;17:35;Duke Energy Carolinas;Western Piedmont North Carolina;1000;175000;severe weather, thunderstorm
+Severe Weather - Thunderstorms;6/13/2013;16:08;6/14/2013;17:16;Dominion Virginia Power;Richmond Metro area, Virginia;900;283000;severe weather, thunderstorm
+Severe Weather - Thunderstorms;6/15/2014;0:00;6/15/2014;1:00;Xcel Energy;Central Minnesota;Unknown;55951;severe weather, thunderstorm
+Vandalism;6/15/2011;16:00;6/16/2011;6:30;PacifiCorp;Bingham County, Idaho;Unknown;Unknown;vandalism
+Severe Thunderstorms;6/15/2011;19:15;6/16/2011;6:00;Southern Company;Georgia;563;169000;severe weather, thunderstorm
+Severe Thunderstorms;6/15/2011;19:17;6/16/2011;1:45;Duke Energy;Piedmont, North Carolina;300;70135;severe weather, thunderstorm
+Load Shed of 100+ MW Under Emergency Operational Policy;6/17/2013;16:17;6/17/2013;18:49;Tampa Electric Co;Hillsborough County Florida;180;37;load shedding
+Severe Thunderstorms;6/18/2011;17:00;6/18/2011;21:33;Duke Energy Carolinas;North Carolina, South Carolina;300;70000;severe weather, thunderstorm
+Electrical System Separation (Islanding);6/18/2013;15:51;6/18/2013;16:23;Western Area Power Administration;Wyoming;6;Unknown;islanding
+Physical Attack - Vandalism;6/18/2014;9:52;6/18/2014;19:00;Public Utility District No.1 of Snohomish County (SNPD);Washington;Unknown;Unknown;vandalism, physical
+Severe Thunderstorms;6/18/2011;15:30;6/19/2011;15:42;Southern Company;Northern, Georgia;312;93828;severe weather, thunderstorm
+Electrical System Separation (Islanding);6/19/2013;19:57;6/19/2013;20:09;Western Electricity Coordinating Council;Alberta, Canada;Unknown;Unknown;islanding
+Physical Attack - Vandalism;6/19/2014;8:47;6/19/2014;8:48;Tennessee Valley Authority;Nashville, Tennessee;Unknown;Unknown;vandalism, physical
+Vandalism;6/2/2012;7:30;6/2/2012;11:35;Pacific Gas and Electric Company;San Francisco, California;Unknown;Unknown;vandalism
+Vandalism;6/20/2011;10:36;6/20/2011;10:36;Tacoma Power (TPWR);Collins Substation, Washington;0;0;vandalism
+Public Appeal to Reduce Electricity Usage;6/18/2011;16:45;6/20/2011;23:59;West Memphis Utilities;Eastern, Arkansas;Unknown;Unknown;public appeal
+Severe Weather - Thunderstorms;6/19/2012;4:30;6/20/2012;23:00;Xcel Energy;Minneapolis/St. Paul, Minnesota;Unknown;68200;severe weather, thunderstorm
+Severe Weather - Thunderstorms;6/18/2014;17:00;6/20/2014;15:00;Detroit Edison Co;Southeast Michigan;Unknown;138802;severe weather, thunderstorm
+Fuel Supply Deficiency (Water);6/19/2012;5:30;6/21/2012;5:30;California Department of Water Resources;CAISO Territory California;Unknown;Unknown;fuel supply emergency, hydro
+Physical Attack, Vandalism;6/21/2013;23:14;6/21/2013;23:15;Delmarva Power & Light Company;New Castle Delaware;Unknown;Unknown;vandalism, physical
+Physical Attack, Vandalism & Sabotage;6/21/2013;7:40;6/21/2013;12:14;Valley Electric Assn, Inc;Pahrump Nevada;Unknown;1100;vandalism, physical
+Physcial Attack, Vandalism;6/20/2013;18:00;6/21/2013;10:00;Potomac Electric Power Co;Richie Station (No. 123), Maryland;Unknown;Unknown;vandalism, physical
+Vandalism;6/22/2011;20:12;6/22/2011;20:12;Tacoma Power (TPWR);Knoble Substation, Spanaway, Washington;0;0;vandalism
+Severe Weather;6/22/2011;9:46;6/22/2011;9:46;Tennessee Valley Authority (TVA);Knoxville, Tennessee;Unknown;106300;severe weather
+Severe Weather;6/21/2011;18:30;6/22/2011;7:00;American Electric Power (AEP);AEP Region;Unknown;56000;severe weather
+Physical Attack, Vandalism;6/22/2013;4:59;6/22/2013;21:28;PacifiCorp;Medford Oregon;Unknown;Unknown;vandalism, physical
+Suspected Physical Attack;6/22/2013;16:12;6/22/2013;17:45;NorthWestern Energy LLC - (MT);Eastern Montana;Unknown;Unknown;vandalism, physical
+Vandalism;6/23/2011;8:10;6/23/2011;9:00;ISO New England/Velco;Highgate, Vermont;0;0;vandalism
+Severe Thunderstorms;6/22/2011;19:00;6/23/2011;1:00;Southern Company;Alabama, Georgia;316;75101;severe weather, thunderstorm
+Severe Thunderstorms;6/21/2011;21:45;6/23/2011;2:00;Exelon Corporation/ComEd;Illinois;Unknown;300000;severe weather, thunderstorm
+Load Shed;6/23/2012;18:57;6/23/2012;19:28;ISO New England;North Shore, Massachusetts;51;29250;load shedding
+Severe Weather - Fog;6/23/2013;21:20;6/24/2013;1:35;Pacific Gas & Electric Co;Central Coast California;Unknown;148000;severe weather, fog
+Severe Weather - Hailstorm;6/21/2013;17:39;6/24/2013;6:00;Xcel Energy;Minneapolis/St. Paul area Minnesota;Unknown;400000;severe weather, hail
+Physical Attack - Vandalism;6/24/2014;14:54;6/24/2014;14:55;Tennessee Valley Authority;Nashville, Tennessee;Unknown;Unknown;vandalism, physical
+Severe Thunderstorms;6/24/2011;18:30;6/25/2011;1:30;Southern Company;North/North Central Alabama, Georgia;340;102275;severe weather, thunderstorm
+Severe Weather - Thunderstorms;6/24/2013;19:30;6/25/2013;17:46;Exelon Corporation/ComEd;Illinois;Unknown;283451;severe weather, thunderstorm
+Severe Weather - Wind & Rain;6/25/2012;16:04;6/26/2012;13:45;Dominion;Central Virginia;600;190000;severe weather, wind, rain
+Severe Weather - Thunderstorms;6/24/2013;19:30;6/26/2013;17:00;Northern Indiana Public Service Company;Indiana;Unknown;86615;severe weather, thunderstorm
+Severe Weather - Hailstorm;6/21/2013;3:00;6/26/2013;0:00;Xcel Energy;Minnesota;Unknown;193000;severe weather, hail
+Public Appeal to Reduce Electricity Usage;6/27/2011;15:00;6/27/2011;19:00;ERCOT ISO;Texas;0;0;public appeal
+Vandalism;6/27/2011;18:55;6/27/2011;18:55;City of Tacoma (TPWR);Olympic Pipeline Substation, Washington;Unknown;Unknown;vandalism
+Severe Thunderstorms;6/26/2011;18:00;6/27/2011;13:00;Southern Company;Alabama, Georgia;300;90160;severe weather, thunderstorm
+Public Appeal to Reduce Electricity Usage;6/26/2011;16:46;6/27/2011;7:59;Sunflower Electric Power Corporation;Southwest Kansas;Unknown;Unknown;public appeal
+Physical Attack, Vandalism;6/27/2013;1:10;6/27/2013;2:45;Potomac Electric Power Company;Richie Substation,Seat Pleasant, Maryland;Unknown;Unknown;vandalism, physical
+Equipment Failure;6/28/2013;18:02;6/28/2013;20:46;Southern California Edison Co;Los Angeles and Orange Counties, California;240;65255;equipment failure
+Physical Attack, Vandalism;6/28/2013;17:14;6/28/2013;17:15;Delmarva Power & Light Company;New Castle Delaware;Unknown;Unknown;vandalism, physical
+Physical Attack, Vandalism;6/28/2013;13:00;6/28/2013;13:01;ISO New England;Vermont;Unknown;Unknown;vandalism, physical
+Severe Weather - Thunderstorms;6/27/2013;17:00;6/28/2013;12:00;Detroit Edison Co;South Eastern Michigan;Unknown;138000;severe weather, thunderstorm
+Public Appeal to Reduce Electricity Usage;6/29/2011;11:30;6/29/2011;18:04;Southwestern Public Service;Panhandle and Muleshoe, Texas;0;0;public appeal
+Severe Thunderstorms;6/27/2011;0:00;6/29/2011;1:00;AMEREN;Illinois, Missouri;Unknown;80000;severe weather, thunderstorm
+Public Appeal to Reduce Electricity Usage;6/29/2012;16:00;6/29/2012;21:00;Entergy;Eastern, Arkansas;45;7935;public appeal
+Equipment Trip & Failure;6/29/2012;12:10;6/29/2012;17:02;Puerto Rico Electric Power Authority (PREPA);Puerto Rico;1800;900000;equipment failure
+Physical Attack;6/29/2012;10:45;6/29/2012;10:45;Delmarva Power & Light Company;New Castle, Delaware;0;0;vandalism, physical
+Electrical System Separation (Islanding);6/3/2013;12:50;6/3/2013;13:36;WECC RC Vancouver;Alberta, Canada;Unknown;Unknown;islanding
+Electrical System Islanding;6/3/2014;15:32;6/3/2014;15:59;Peak Reliability;Alberta, Canada;338;Unknown;islanding
+Physical Attack - Vandalism;6/3/2014;1:38;6/3/2014;1:43;Lower Colorado River Authority;Texas;Unknown;Unknown;vandalism, physical
+Major System Interruption/Load Shed;6/30/2011;14:11;6/30/2011;23:25;Salt River Project;Phoenix, Arizona;5299;160000;load shedding
+Vandalism;6/30/2011;22:31;6/30/2011;22:31;Tacoma Power (TPWR);Olympic Pipeline Substation, Washington;0;0;vandalism
+Severe Weather - Thunderstorms;6/29/2012;23:30;6/30/2012;2:00;Exelon Corporation/ComEd;Northeast Illinois;Unknown;109000;severe weather, thunderstorm
+Vandalism;6/4/2011;1:17;6/4/2011;3:25;Pacific Gas and Electric;Midway, California;Unknown;420;vandalism
+Severe Weather;6/2/2011;23:45;6/4/2011;16:00;South Carolina Electric and Gas;Greater Columbia, South Carolina;0;50465;severe weather
+Severe Weather - Tornados;5/31/2013;18:00;6/4/2013;10:30;Oklahoma Gas & Electric Co;El Reno, S. Oklahoma City, Oklahoma;Unknown;127000;severe weather, tornado
+Electrical System Separation (Islanding);6/5/2011;20:02;6/5/2011;20:55;Pacific Gas and Electric;Melones, California;10;5314;islanding
+Severe Weather - Thunderstorms;6/5/2014;13:06;6/5/2014;13:07;Tennessee Valley Authority;West Tennessee;Unknown;56475;severe weather, thunderstorm
+Load Shed/ Automatic undervoltage relay action;6/6/2011;0:13;6/6/2011;3:15;El Paso Electric Company;El Paso County, Texas, Dona Ana County, New Mexico;450;162000;load shedding
+Severe Thunderstorms;6/5/2011;5:30;6/6/2011;1:30;CenterPoint Energy;Houston Metro-Area, Texas;473;78000;severe weather, thunderstorm
+Vandalism;6/6/2012;0:37;6/6/2012;0:37;Potomac Electric Power Company (PEPCO);Columbia Heights, NW, Washington DC;0;0;vandalism
+Vandalism;6/6/2012;8:00;6/6/2012;8:00;New York Power Authority;Delhi, New York;Unknown;Unknown;vandalism
+Severe Weather - Thunderstorms;6/5/2014;3:00;6/7/2014;23:45;Memphis Light Gas and Water Division;Shelby County, Tennessee;494;38500;severe weather, thunderstorm
+Vandalism;6/8/2011;0:58;6/8/2011;0:58;Tacoma Power (TPWR);Fredrickson Substation, Washington;Unknown;Unknown;vandalism
+Severe Weather;6/7/2011;14:00;6/8/2011;6:00;American Electric Power;Ohio;Unknown;52747;severe weather
+Public Appeal to Reduce Electricity Usage;6/6/2011;15:00;6/8/2011;15:00;West Memphis Utilities;Eastern, Arkansas;Unknown;13000;public appeal
+Load Shed;6/8/2012;17:20;6/8/2012;17:25;Public Service Company of Colorado;Denver Metro Area, Colorado;120;30379;load shedding
+Severe Weather - Thunderstorms;6/7/2014;23:00;6/8/2014;5:30;Southern Company;North and Central , Alabama;217;65000;severe weather, thunderstorm
+Suspected Physical Attack;6/9/2011;14:15;6/9/2011;14:15;Southern California Edison (SCE);San Antonio Dam Area, Los Angeles County, California;0;0;vandalism, physical
+Severe Thunderstorms;6/9/2011;4:30;6/9/2011;12:00;Exelon Corporation/ComEd;Illinois;Unknown;169000;severe weather, thunderstorm
+Electrical System Islanding;6/9/2014;11:07;6/9/2014;11:30;Peak Reliability;Alberta, Canada;Unknown;Unknown;islanding
+Vandalism;7/1/2011;16:38;7/1/2011;22:38;Dayton Power & Light;Greene County Ohio;Unknown;0;vandalism
+Vandalism;7/1/2011;8:00;7/1/2011;8:01;ISO New England;CONVEX Local Control Center, Connecticut;0;0;vandalism
+Severe Weather;6/30/2011;22:30;7/1/2011;17:00;Exelon Corporation/ComEd;Illinois;Unknown;121000;severe weather
+Operational Failure, Storm Damage;7/1/2012;16:47;7/1/2012;23:00;North Carolina Municipal Power Agency #1;Tarboro, North Carolina;48;6100;equipment failure, severe weather, storm
+Severe Weather;7/1/2012;17:45;7/1/2012;22:15;Progress Energy, Carolinas;Northern, Central and Eastern North Carolina;Unknown;69106;severe weather
+Severe Weather - Thunderstorms;6/30/2014;23:20;7/1/2014;17:00;Northern Indiana Public Service Company;North Central Indiana;Unknown;127000;severe weather, thunderstorm
+Severe Weather - Thunderstorms;6/30/2014;17:55;7/1/2014;2:53;We Energies;Southeast  Wisconsin;424;120000;severe weather, thunderstorm
+Fuel Supply Deficiency (Water);7/7/2012;4:00;7/10/2012;4:00;California Department of Water Resources;CAISO California;Unknown;0;fuel supply emergency, hydro
+Physical Attack, Copper Theft;7/10/2013;14:30;7/10/2013;14:45;ISO New England;Boston, Massachusetts;0;0;vandalism, physical
+Vandalism;7/11/2011;13:30;7/11/2011;13:30;Central Maine Power Company;Maine;Unknown;0;vandalism
+Vandalism;7/11/2011;13:13;7/11/2011;13:13;Duke Energy;Southwest Ohio;0;0;vandalism
+Severe Weather;7/11/2011;9:00;7/11/2011;10:25;Detroit Edison, Subsidiary of DTE Energy;Michigan;254;103000;severe weather
+Severe Weather;7/11/2011;9:00;7/11/2011;9:00;Exelon Corporation/ComEd;Illinois;Unknown;500000;severe weather
+Suspected Cyber Attack;7/8/2011;10:00;7/11/2011;9:00;PJM Interconnection;PJM Corporate Office, Pennsylvania;Unknown;Unknown;vandalism, cyber
+Severe Weather - Thunderstorms;7/10/2013;17:30;7/11/2013;20:00;American Electric Power;AEP Ohio Power Footprint;Unknown;122314;severe weather, thunderstorm
+Suspected Physical Attack;7/12/2011;20:20;7/12/2011;21:30;Gen On;California;Unknown;Unknown;vandalism, physical
+Vandalism;7/12/2011;0:00;7/12/2011;0:00;Central Maine Power Company;Maine;Unknown;0;vandalism
+Severe Weather;7/11/2011;14:27;7/12/2011;15:50;American Electric Power (AEP);Indiana, Michigan, Ohio;Unknown;120000;severe weather
+Severe Weather;7/11/2011;11:15;7/12/2011;8:15;Consumers Energy;Western and Southern Lower Peninsula Michigan;Unknown;85000;severe weather
+Physical Attack, Vandalism;7/12/2013;10:00;7/12/2013;10:01;Tacoma Power (TPWR);Washington;Unknown;Unknown;vandalism, physical
+Load Shed;7/13/2011;17:19;7/13/2011;22:03;Public Service Company of Colorado;Pueblo, Colorado;580;Unknown;load shedding
+Public Appeal to Reduce Electricity Usage;7/14/2011;11:00;7/14/2011;19:00;ERCOT ISO;Texas;0;0;public appeal
+Physical Attack, Vandalism;7/11/2013;23:20;7/14/2013;15:22;Arizona Public Service Co;Arizona;455;Unknown;vandalism, physical
+Public Appeal to Reduce Energy Usage;7/16/2012;11:27;7/16/2012;12:29;North Little Rock Electric Department;Little Rock, Arkansas;Unknown;Unknown;public appeal
+Severe Weather - Thunderstorms;7/18/2012;16:20;7/18/2012;19:05;American Electric Power (AEP);Eastern Ohio;Unknown;67000;severe weather, thunderstorm
+Physical Attack, Vandalism;7/18/2013;3:15;7/18/2013;3:59;PacifiCorp;Utah;Unknown;Unknown;vandalism, physical
+Vandalism;7/19/2011;11:45;7/19/2011;15:00;Central Maine Power Company;Maine;Unknown;Unknown;vandalism
+Vandalism;7/19/2012;0:32;7/19/2012;0:33;Delmarva Power & Light Company;Newark, Delaware;Unknown;Unknown;vandalism
+Severe Weather - Thunderstorms;7/18/2012;14:16;7/19/2012;23:58;Duke Energy Midwest;Southeast Ohio, Northern Kentucky, Southern Indiana;480;103000;severe weather, thunderstorm
+Severe Weather - Thunderstorms;7/18/2012;23:00;7/19/2012;6:00;Exelon Corporation/ComEd;Northern Illinois;Unknown;181000;severe weather, thunderstorm
+Public Appeal - Heatwave;7/18/2013;11:30;7/19/2013;17:30;Niagara Mohawk Power Corp.;Upstate New York;Unknown;Unknown;public appeal, severe weather, heat
+Equipment Failure;7/18/2013;23:45;7/19/2013;10:05;San Diego Gas & Electric Co;Southern Orange County California;200;123000;equipment failure
+Fuel Supply Emergency (Natural Gas);7/17/2013;15:30;7/19/2013;6:45;Long Island Power Authority;Holtsville, New York;417;Unknown;fuel supply emergency, natural gas
+Public Appeal to Reduce Electricity Usage;6/30/2012;15:00;7/2/2012;0:00;Tennessee Valley Authority (TVA);Northeast Tennessee;Unknown;Unknown;public appeal
+Severe Weather - Thunderstorms;6/30/2012;22:30;7/2/2012;8:11;Southern Maryland Electric Cooperative, Inc.;Calvert, Charles, St. Mary's, Prince Georges Counties Maryland;354;60000;severe weather, thunderstorm
+Severe Weather - Thunderstorms;6/29/2012;17:15;7/2/2012;23:59;Duke Energy Midwest;Eastern Indiana, Northern Kentucky, Greater Cincinnati area Ohio;2946;4645572;severe weather, thunderstorm
+Severe Weather - Thunderstorms;6/29/2012;16:00;7/2/2012;16:00;American Electric Power (AEP);Indiana, Michigan, Ohio, West Virginia;Unknown;1355919;severe weather, thunderstorm
+Severe Weather - Thunderstorms;6/30/2014;20:00;7/2/2014;18:30;Exelon Corporation/ComEd;Illinois;Unknown;420000;severe weather, thunderstorm
+Fire;7/20/2002;0:40;7/20/2002;8:12;Consolidated Edison Co. of New York;New York;278;63500;wild fire
+Vandalism;7/20/2011;9:10;7/20/2011;16:30;Tacoma Power (TPWR);Frederickson Substation, Washington;Unknown;Unknown;vandalism
+Severe Weather - Thunderstorms;7/19/2013;18:00;7/20/2013;9:00;Detroit Edison Co;Michigan;Unknown;156627;severe weather, thunderstorm
+Public Appeal to Reduce Electricity Usage;7/21/2011;13:00;7/21/2011;15:00;City Water Light and Power;Springfield, Illinois;Unknown;Unknown;public appeal
+Severe Weather, Equipment Failure;7/21/2012;2:19;7/21/2012;5:20;Lubbock Power and Light;City of Lubbock, Texas;220;70000;severe weather, equipment failure
+Severe Weather - Thunderstorms;7/19/2013;22:30;7/21/2013;20:00;Niagara Mohawk Power Corporation (dba National Grid);New York;Unknown;74300;severe weather, thunderstorm
+Public Appeal to Reduce Electricity Usage;7/22/2011;11:00;7/22/2011;18:00;Niagara Mohawk Power Corporation (dba National Grid);Upstate, New York;Unknown;Unknown;public appeal
+Load Shed;7/22/2011;11:34;7/22/2011;17:26;PJM Interconnection;Ohio;206;23000;load shedding
+Public Appeal to Reduce Electricity Usage;7/21/2011;12:32;7/22/2011;6:30;Consumers Energy;Lower Peninsula, Michigan;8881;Unknown;public appeal
+Physical Attack, Vandalism;7/22/2013;7:00;7/22/2013;15:00;Terra-Gen Operating Company;California;Unknown;Unknown;vandalism, physical
+Vandalism;7/24/2011;14:34;7/24/2011;15:47;Public Service of NH (Northeast Utilities);Southern, New Hampshire;0;0;vandalism
+Severe Weather;7/23/2011;2:30;7/24/2011;9:00;Exelon Corporation/ComEd;Illinois;Unknown;169000;severe weather
+Severe Weather;7/18/2011;17:00;7/24/2011;13:30;Detroit Edison, Subsidiary of DTE Energy;Southeast Michigan;Unknown;197166;severe weather
+Severe Weather - Thunderstorms;7/24/2012;7:30;7/24/2012;22:00;Exelon Corporation/ComEd;Northern Illinois;Unknown;330000;severe weather, thunderstorm
+Severe Weather - Thunderstorms;7/24/2012;7:01;7/24/2012;16:30;Northern Indiana Public Service Company;Northern Indiana;Unknown;82621;severe weather, thunderstorm
+Physical Attack, Vandalism;7/25/2013;13:10;7/25/2013;13:15;Tacoma Power (TPWR);Polk Substation, Tacoma Washington;Unknown;Unknown;vandalism, physical
+Severe Weather - Thunderstorms;7/23/2013;23:38;7/25/2013;4:30;American Electric Power;Tulsa, Oklahoma;500;92748;severe weather, thunderstorm
+Vandalism;7/26/2011;0:01;7/26/2011;0:01;Western Farmers Electric Cooperative;Backup Control Center, Oklahoma;0;0;vandalism
+Vandalism;7/27/2011;0:07;7/27/2011;0:08;Tacoma Power (TPWR);Fife, Washington;Unknown;Unknown;vandalism
+Severe Weather - Thunderstorms;7/26/2012;18:14;7/27/2012;18:14;FirstEnergy Corp.: Pennsylvania Electric Company;Western Pennsylvania;Unknown;65112;severe weather, thunderstorm
+Severe Weather - Thunderstorms;7/26/2012;18:30;7/27/2012;17:22;American Electric Power (AEP);Eastern Ohio;Unknown;57054;severe weather, thunderstorm
+Vandalism;7/28/2011;19:25;7/28/2011;19:25;City of Tacoma (TPWR);Spanaway, Washington;Unknown;Unknown;vandalism
+Vandalism;7/28/2011;13:32;7/28/2011;13:32;Northern Indiana Public Service Company (NIPSCO);Indiana;Unknown;Unknown;vandalism
+Severe Weather - Thunderstorms;7/27/2012;17:19;7/28/2012;17:19;Duke Energy Midwest;Central Indiana;Unknown;52702;severe weather, thunderstorm
+Severe Weather - Thunderstorms;7/26/2012;18:21;7/28/2012;23:30;PPL Electric Utilities Corp;North/Central Pennsylvania;Unknown;65000;severe weather, thunderstorm
+Vandalism;7/29/2011;11:46;7/29/2011;17:00;City of Tacoma (TPWR);Fredrickson, Washington;Unknown;Unknown;vandalism
+Severe Weather;7/28/2011;0:14;7/29/2011;0:00;Exelon Corporation/ComEd;Entire ComEd Territory, Indiana;Unknown;201000;severe weather
+Fuel Supply Deficiency (Coal);7/28/2011;7:26;7/29/2011;7:26;Owensboro Municipal Utilities;Daviess County, Kentucky;Unknown;Unknown;fuel supply emergency, coal
+Severe Weather;7/1/2011;17:00;7/3/2011;20:00;Xcel Energy Northern States Power Company;Southwest and South Central Minnesota;Unknown;70000;severe weather
+Severe Weather - Thunderstorms;7/1/2012;13:00;7/3/2012;15:00;Exelon Corporation/ComEd;Illinois;Unknown;320000;severe weather, thunderstorm
+Severe Weather - Thunderstorms;6/30/2012;1:00;7/3/2012;1:00;Delmarva Power & Light Company;Delaware, Maryland;0;86390;severe weather, thunderstorm
+Voltage Reduction, Line and Generator Trip;7/3/2013;0:04;7/3/2013;0:48;Puerto Rico Electric Power Authority;System-wide Puerto Rico;480;393000;voltage reduction, generator trip
+Suspected Physical Attack;7/3/2013;9:34;7/3/2013;10:52;Sacramento Municipal Utility District;Sacramento California;0;0;vandalism, physical
+Fuel Supply Deficiency (Coal);7/19/2012;10:30;7/31/2012;11:00;Somerset Operating Company;Niagara County, New York;675;Unknown;fuel supply emergency, coal
+Severe Weather;7/4/2011;18:00;7/4/2011;21:00;Dominion Virginia Power;Virginia;150;51580;severe weather
+Severe Weather - Thunderstorms;6/29/2012;14:10;7/4/2012;18:00;Dayton Power & Light;Dayton, Ohio;500;175000;severe weather, thunderstorm
+Severe Weather - Thunderstorms;6/29/2012;22:29;7/4/2012;15:36;Dominion;Virginia;5000;880000;severe weather, thunderstorm
+Vandalism;7/5/2011;10:40;7/5/2011;11:37;PacifiCorp;West Valley Substation Utah;0;0;vandalism
+Severe Weather - Thunderstorms;6/29/2012;22:15;7/5/2012;0:52;Pepco;Montgomery and Prince Georges Counties, Maryland, District of Columbia;3000;425000;severe weather, thunderstorm
+Severe Weather - Thunderstorms;6/29/2012;22:43;7/5/2012;11:50;Baltimore Gas & Electric Company (BGE);Greater Baltimore area, Maryland;1465;600000;severe weather, thunderstorm
+Physical Attack, Vandalism;7/5/2013;0:05;7/5/2013;1:51;Pacific Gas & Electric Co;California;Unknown;2500;vandalism, physical
+Load Shed 100+MW;7/2/2013;14:20;7/5/2013;15:30;Western Electricity Coordinating Council;Alberta, Canada;200;Unknown;load shedding
+Vandalism;7/6/2011;9:51;7/6/2011;9:52;ISO New England;Vermont;Unknown;Unknown;vandalism
+Severe Weather;7/2/2011;20:15;7/6/2011;22:00;Detroit Edison, Subsidiary of DTE Energy;South East, Lower Peninsula, Michigan;Unknown;182000;severe weather
+Vandalism;7/6/2012;15:05;7/6/2012;15:06;City of Tacoma - TPWR;Tacoma, Washington;Unknown;Unknown;vandalism
+Severe Weather - Thunderstorms;7/5/2012;0:00;7/6/2012;20:30;Consumers Energy;Lower Peninsula Michigan;Unknown;111000;severe weather, thunderstorm
+Severe Weather - Wind & Storms;7/5/2012;19:00;7/6/2012;16:00;Tennessee Valley Authority (TVA);Northeast Tennessee;Unknown;50001;severe weather, wind, storm
+Severe Weather - Thunderstorms;6/29/2012;18:24;7/6/2012;10:00;FirstEnergy (Mon Power);West Virginia;700;265000;severe weather, thunderstorm
+Severe Weather - Thunderstorms;6/30/2012;1:15;7/7/2012;17:33;Atlantic City Electric;Atlantic City Electric Service Territory New Jersey;Unknown;205000;severe weather, thunderstorm
+Severe Weather - Thunderstorms;6/29/2012;19:00;7/7/2012;19:43;FirstEnergy (Potomac Edison);Maryland, West Virginia;Unknown;145000;severe weather, thunderstorm
+Vandalism;7/8/2011;10:00;7/8/2011;10:00;Minnesota Power;Saginaw, Minnesota;0;0;vandalism
+Energy Deficiency Alert;7/9/2012;12:15;7/9/2012;16:14;WECC RC Vancouver;Alberta, Canada;9896;Unknown;energy deficiency alert
+Severe Weather - Thunderstorms;7/7/2012;6:06;7/9/2012;23:00;PPL Electric Utilities Corp;Lower Valley, Central, Susquehanna Regions Pennsylvania;Unknown;64500;severe weather, thunderstorm
+Severe Weather - Thunderstorms;7/7/2012;18:00;7/9/2012;19:01;FirstEnergy Corp. Jersey Central Power & Light;Central and Northern New Jersey;Unknown;95400;severe weather, thunderstorm
+Vandalism;8/1/2011;14:18;8/1/2011;14:18;PacificCorp;Jefferson, Oregon;Unknown;Unknown;vandalism
+Severe Weather;7/29/2011;20:45;8/1/2011;4:24;FirstEnergy Corp: Jersey Central Power & Light;Central New Jersey;Unknown;67900;severe weather
+Public Appeal to Reduce Electricity Usage;8/1/2012;0:00;8/1/2012;0:00;Oklahoma Gas & Electric Co;Oklahoma, Arkansas;Unknown;Unknown;public appeal
+Electrical System Separation (Islanding;8/1/2013;18:54;8/1/2013;19:37;WECC RC Vancouver;Western British Columbia;420;Unknown;islanding
+Physical Attack, Copper Theft;8/1/2013;11:00;8/1/2013;16:00;Central Hudson Gas & Electric;Newburgh, New York;Unknown;Unknown;vandalism, physical
+Severe Weather;8/8/2011;20:58;8/10/2011;16:30;Oklahoma Gas & Electric;Northern and Central Oklahoma;Unknown;54000;severe weather
+Suspected Physical Attack;8/11/2012;12:45;8/11/2012;17:00;City of Tacoma, TPWR;Tacoma, Washington;Unknown;Unknown;vandalism, physical
+Suspicious Activity;8/12/2013;11:55;8/12/2013;11:59;PacifiCorp;Portland, Oregon;Unknown;Unknown;vandalism
+Severe Weather - Dust Storm, Load Shed Event;8/13/2012;15:52;8/13/2012;19:44;WECC Reliability Coordinator;CFE (Mexico & U.S.);655;Unknown;severe weather, dust, load shedding
+Vandalism;8/13/2012;13:15;8/13/2012;13:15;Tennessee Valley Authority;Knoxville, Tennessee;Unknown;Unknown;vandalism
+Severe Weather;8/13/2011;16:41;8/14/2011;19:00;LG&E and KU Energy LLC;Kentucky;Unknown;181700;severe weather
+Vandalism;8/15/2011;2:05;8/15/2011;3:40;PacifiCorp;Utah;0;0;vandalism
+Vandalism;8/16/2012;13:13;8/16/2012;13:13;Northern Indiana Public Service Company;Northern Indiana;0;0;vandalism
+Severe Weather - Thunderstorms;8/16/2013;16:58;8/17/2013;23:58;CenterPoint Energy;Houston Service Area Texas;Unknown;219681;severe weather, thunderstorm
+Suspected Physical Attack;8/18/2011;9:51;8/18/2011;16:00;City of Tacoma (TPWR);Collins Substation, Washington;Unknown;Unknown;vandalism, physical
+Fuel Supply Deficiency (Coal);8/3/2011;10:00;8/19/2011;10:00;AES Somerset LLC;Western New York;675;Unknown;fuel supply emergency, coal
+Suspected Physical Attack;8/19/2012;8:42;8/19/2012;12:08;El Paso Electric Co;El Paso, Texas;12;3314;vandalism, physical
+Interruption of Firm Power;8/2/2002;0:43;8/2/2002;6:36;Central Illinois Light Co.;Illinois;232;53565;load shedding
+Loss of 300+ MW Load;8/1/2013;23:19;8/2/2013;12:49;Florida Power & Light Co;Daytona Beach Florida;297;104498;load shedding
+Severe Weather - Lightning Strike;8/19/2013;19:06;8/20/2013;6:02;Southern California Edison Co;Central California;685;124000;severe weather, thunderstorm
+Physcial Attack, Sabotage;8/21/2013;14:00;8/21/2013;14:01;Entergy Arkansas Inc;Cabot, Arkansas;Unknown;Unknown;vandalism, physical
+Suspected Physical Attack;8/22/2011;10:05;8/22/2011;16:00;City of Tacoma (TPWR);Collins Substation, Washington;Unknown;Unknown;vandalism, physical
+Physcial Attack, Vandalism;8/22/2013;12:55;8/22/2013;14:45;Delmarva Power & Light Company;New Castle, Delaware;Unknown;Unknown;vandalism, physical
+Physcial Attack, Sabotage;8/22/2013;8:40;8/22/2013;11:49;Constellation Energy Control & Dispatch - for Gila River;Gila River, Arizona;Unknown;Unknown;vandalism, physical
+Public Appeal to Reduce Electricity Usage;8/23/2011;15:43;8/23/2011;19:00;ERCOT ISO;Texas;0;0;public appeal
+Public Appeal to Reduce Electricity Usage;8/23/2011;10:30;8/23/2011;16:54;Southwestern Public Service Company;Southeastern New Mexico,  Texas Panhandle;0;0;public appeal
+Earthquake;8/23/2011;13:51;8/23/2011;13:51;Dominion Virginia Power;Virginia;0;0;earthquake
+Severe Weather;8/21/2011;22:45;8/23/2011;22:45;Puerto Rico Electric Power Authority (PREPA);Puerto Rico;2200;931000;severe weather
+Severe Weather;8/20/2011;17:42;8/23/2011;20:00;Detroit Edison, Subsidiary of DTE Energy;Southeastern Michigan;254;65000;severe weather
+Physcial Attack, Vandalism;8/23/2013;7:30;8/23/2013;7:31;Delmarva Power & Light Company;New Castle, Delaware;Unknown;Unknown;vandalism, physical
+Severe Weather;8/24/2011;14:51;8/24/2011;22:00;American Electric Power (AEP);Arkansas, Louisiana, Texas;Unknown;53064;severe weather
+Suspected Physical Attack;8/25/2011;0:01;8/25/2011;12:01;Central Maine Power Company;Maine;0;0;vandalism, physical
+Severe Weather;8/24/2011;7:45;8/25/2011;6:00;CenterPoint Energy;Houston area, Texas;485;79000;severe weather
+Physcial Attack, Vandalism;8/26/2013;20:15;8/26/2013;20:16;Tacoma Power (TPWR);Tacoma Washington;Unknown;Unknown;vandalism, physical
+Distribution System Interruption;8/27/2011;2:00;8/27/2011;5:15;Town of Stantonsburg JRO;Wilson County North Carolina;2;1200;distribution interruption
+Severe Weather - TS Isaac;8/26/2012;22:04;8/27/2012;2:04;Florida Power & Light;Florida;Unknown;440000;severe weather, hurricane/tropical storm
+Severe Weather;8/28/2002;2:09;8/28/2002;3:38;Lakeworth Utils;Florida;67.6;25000;severe weather
+Suspected Physical Attack;8/28/2011;20:55;8/28/2011;23:39;PacifiCorp;Calapooya Substation, Oregon;0;0;vandalism, physical
+Severe Weather;8/28/2011;0:30;8/28/2011;0:31;Orange and Rockland Utilities, Inc.;New York;Unknown;116000;severe weather
+Severe Weather;8/28/2011;0:10;8/28/2011;0:11;ISO New England;Eastern Massachusetts;Unknown;50000;severe weather
+Severe Weather;8/26/2011;0:30;8/28/2011;12:30;FirstEnergy Corp: Metropolitan Edison Company;Pennsylvania;Unknown;200717;severe weather
+Severe Weather;8/25/2011;0:30;8/28/2011;20:00;FirstEnergy Corp: Cleveland Electric Illuminating Company;Cleveland area, Ohio;Unknown;107833;severe weather
+Physcial Attack, Vandalism;8/28/2013;9:30;8/28/2013;9:31;PacifiCorp;Sweetwater County Wyoming;Unknown;Unknown;vandalism, physical
+Severe Weather;8/28/2011;7:40;8/29/2011;7:40;The United illuminating Company;Southwest Connecticut;Unknown;158000;severe weather
+Severe Weather;8/27/2011;2:57;8/29/2011;23:30;Progress Energy Carolinas;Eastern North Carolina;Unknown;285465;severe weather
+Severe Weather;8/27/2011;22:00;8/29/2011;22:00;Exelon Corporation / PECO;Pennsylvania;Unknown;264000;severe weather
+Severe Weather;8/27/2011;22:00;8/29/2011;16:00;Atlantic City Electric Company;Southern New Jersey;320;140000;severe weather
+Severe Weather;8/27/2011;10:33;8/29/2011;14:00;Dominion Virginia Power;North Carolina, Virginia;Unknown;1000000;severe weather
+Severe Weather;8/27/2011;19:00;8/29/2011;13:31;North Carolina Eastern Municipal Power Agency;Eastern North Carolina;200;136000;severe weather
+Severe Weather;8/27/2011;13:00;8/29/2011;13:00;Delmarva Power & Light Company;Delaware, Maryland;Unknown;165000;severe weather
+Severe Weather;8/27/2011;23:00;8/29/2011;8:00;Southern Maryland Electric Cooperative (SMECO);Maryland;Unknown;108000;severe weather
+Public Appeal to Reduce Electricity Usage;8/24/2011;13:20;8/29/2011;19:00;ERCOT ISO;Texas;0;0;public appeal
+Electrical System Separation (Islanding), Severe Weather;8/29/2013;14:57;8/29/2013;15:29;Xcel Energy;Ashland, Wisconsin;15;7000;islanding, severe weather
+Physcial Attack, Vandalism;8/29/2013;9:50;8/29/2013;9:50;Empire District Electric Co;Joplin, Missouri;Unknown;Unknown;vandalism, physical
+Public Appeal to Reduce Electricity Usage;8/3/2011;16:29;8/3/2011;23:40;Grand River Dam Authority;Northeast Oklahoma;300;Unknown;public appeal
+Public Appeal to Reduce Electricity Usage;8/3/2011;16:30;8/3/2011;21:00;Entergy;Central Arkansas;0;0;public appeal
+Severe Weather;8/2/2011;21:30;8/3/2011;19:00;Exelon Corporation/ComEd;Northeast, Illinois;Unknown;71500;severe weather
+Public Appeal to Reduce Electricity Usage;8/2/2011;10:15;8/3/2011;9:16;Oklahoma Gas & Electric;Oklahoma;Unknown;Unknown;public appeal
+Severe Weather;8/28/2011;5:00;8/30/2011;5:00;Long Island Power Authority;Long Island, New York;Unknown;152261;severe weather
+Severe Weather;8/28/2011;2:58;8/30/2011;2:58;PPL Electric Utilities;Eastern and Northeastern Pennsylvania;110;284000;severe weather
+Severe Weather;8/28/2011;0:30;8/30/2011;12:30;FirstEnergy Corp: Jersey Central Power & Light;Northern and Central New Jersey;Unknown;650000;severe weather
+Severe Weather;8/28/2011;0:23;8/30/2011;12:23;Public Service Electric and Gas Company;New Jersey;500;665000;severe weather
+Severe Weather;8/28/2011;9:42;8/30/2011;12:01;Niagara Mohawk Power Corporation;Eastern New York;Unknown;100000;severe weather
+Severe Weather;8/28/2011;0:01;8/30/2011;12:01;Central Hudson Gas & Electric;Mid-Hudson, New York;Unknown;180000;severe weather
+Severe Weather - Hurricane Isaac;8/29/2012;6:53;8/30/2012;14:00;Dixie Electric Membership Corp;Louisiana;150;68018;severe weather, hurricane/tropical storm
+Suspected Physical Attack;8/31/2011;0:52;8/31/2011;0:52;Duke Energy;Southwest Ohio;0;0;vandalism, physical
+Severe Weather - Hurricane Isaac;8/29/2012;9:48;8/31/2012;0:55;Cleco Power LLC;Louisiana;Unknown;95000;severe weather, hurricane/tropical storm
+Severe Weather - Hurricane Isaac;8/29/2012;9:00;8/31/2012;0:00;Louisiana Generating LLC;Louisiana;300;50000;severe weather, hurricane/tropical storm
+Severe Weather - Thunderstorms;8/30/2013;19:30;8/31/2013;1:30;Exelon Corporation/ComEd;Entire ComEd territory Illinois;Unknown;157000;severe weather, thunderstorm
+Public Appeal to Reduce Electricity Usage;8/4/2011;10:30;8/4/2011;16:00;American Electric Power (AEP);Arkansas, Oklahoma, Texas;Unknown;Unknown;public appeal
+Severe Weather - Thunderstorms;8/4/2012;4:00;8/4/2012;7:20;Northern Indiana Public Service Company;Northern Indiana;Unknown;61413;severe weather, thunderstorm
+Electrical System Separation (Islanding);8/4/2012;3:55;8/4/2012;4:21;Pacific Gas & Electric Co;Temblor Substation in McKittrick, California;5;127;islanding
+Physical Attack, Vandalism;8/4/2013;3:00;8/4/2013;4:00;Pacificorp;Utah;Unknown;Unknown;vandalism, physical
+Public Appeal to Reduce Electricity Usage;8/1/2011;15:00;8/5/2011;19:00;ERCOT ISO;Texas;0;0;public appeal
+Severe Weather - Thunderstorms;8/4/2012;17:30;8/5/2012;0:10;Exelon Corporation/ComEd;Northeast Illinois;Unknown;325000;severe weather, thunderstorm
+Electrical System Separation (Islanding), Severe Weather;8/5/2013;18:35;8/5/2013;18:45;WECC RC Vancouver;Vancouver, British Columbia;Unknown;Unknown;islanding, severe weather
+Physcial Attack, Vandalism;8/6/2013;16:00;8/6/2013;17:32;El Paso Electric;Holloman Air Force Base, New Mexico;Unknown;Unknown;vandalism, physical
+Severe Weather - Thunderstorms;8/7/2013;0:15;8/7/2013;21:27;We Energies;Eastern Central Wisconsin;220;51160;severe weather, thunderstorm
+Fuel Supply Emergency (Natural Gas & Fuel Oil);8/7/2013;7:30;8/7/2013;9:14;Wisconsin Public Service Corp;Green Bay, Wisconsin;Unknown;Unknown;fuel supply emergency, natural gas
+Vandalism;8/8/2011;9:35;8/8/2011;16:00;City of Tacoma (TPWR);Collins Substation, Washington;Unknown;Unknown;vandalism
+Suspected Physical Attack;8/8/2011;9:30;8/8/2011;9:30;Dayton Power & Light;Greene County, Ohio;0;0;vandalism, physical
+Physcial Attack, Vandalism;8/7/2013;14:30;8/8/2013;13:00;Caithness Shepherds Flat, LLC;Arlington, Oregon;Unknown;Unknown;vandalism, physical
+Interruption of Firm Power;8/9/2002;8:23;8/9/2002;12:13;Lake Worth Utils;Florida;51;25000;load shedding
+Vandalism;8/9/2011;10:26;8/9/2011;17:00;City of Tacoma (TPWR);Polk Substation, Tacoma, Washington;Unknown;Unknown;vandalism
+Electrical System Separation (Islanding);8/8/2011;19:36;8/9/2011;0:00;Oklahoma Municipal Power Authority;Oklahoma;92;14500;islanding
+Vandalism;9/1/2011;8:13;9/1/2011;16:00;City of Tacoma (TPWR);Graham Substaion, Washington;Unknown;Unknown;vandalism
+Transmission/Distribution Interruption, Load Shed, Generation Inadequacy;9/8/2011;15:28;9/10/2011;15:30;WECC Reliability Coordinator;Arizona, California;7000;2000000;transmission interruption, distribution interruption
+Electrical System Separation (Islanding);9/11/2012;13:00;9/11/2012;13:58;WECC - Loveland;Alberta, Canada;0;0;islanding
+Load Shed of 100+ MW;9/10/2013;17:42;9/11/2013;12:02;PJM Interconnection;Erie, Pennsylvania;105;Unknown;load shedding
+Vandalism;9/12/2011;9:15;9/12/2011;15:30;Atlantic City Electric;English Creek, New Jersey;0;0;vandalism
+Vandalism;9/13/2011;14:03;9/13/2011;18:21;New York Power Authority;Saranac, New York;Unknown;0;vandalism
+Vandalism;9/14/2011;9:00;9/14/2011;14:00;PacifiCorp;Salt Lake County, Utah;0;0;vandalism
+Vandalism;9/13/2011;11:43;9/14/2011;16:00;City of Tacoma (TPWR);Lacamas Substation, Roy, Washington;Unknown;Unknown;vandalism
+Severe Weather - Thunderstorms;9/11/2013;16:00;9/15/2013;16:00;Detroit Edison Co;Southeastern Michigan;400;75000;severe weather, thunderstorm
+Vandalism;9/20/2011;12:55;9/20/2011;17:00;City of Tacoma (TPWR);Lacamas Substaion, Washington;Unknown;Unknown;vandalism
+Generation Inadequacy, Load Shed;9/21/2011;14:37;9/21/2011;15:47;Puerto Rico Electric Power Authority (PREPA);Puerto Rico;600;319616;load shedding
+Suspected Physical Attack;9/21/2011;10:30;9/21/2011;10:30;Delmarva Power & Light Company;Hockessin, Delaware;0;0;vandalism, physical
+Vandalism;9/22/2011;14:50;9/22/2011;14:51;Dayton Power & Light;Montgomery County, Ohio;Unknown;0;vandalism
+Vandalism;9/23/2011;9:04;9/23/2011;9:04;The United Illuminating Company;North Haven, Connecticut;0;0;vandalism
+Vandalism;9/24/2011;16:17;9/25/2011;16:00;City of Tacoma (TPWR);Collins Substation, Tacoma, Washington;Unknown;Unknown;vandalism
+Suspected Physical Attack;9/24/2012;0:00;9/25/2012;12:00;PEPCO (Potomac Electric Power Company);Brighton, Maryland;0;0;vandalism, physical
+Vandalism;9/26/2011;10:15;9/26/2011;10:15;Atlantic City Electric;McKee City, New Jersey;0;0;vandalism
+Voltage Reduction;9/26/2012;21:16;9/26/2012;22:18;Puerto Rico Electric Power Authority (PREPA);Puerto Rico;600;371526;voltage reduction
+Suspected Physical Attack;9/28/2011;16:41;9/28/2011;16:41;Delmarva Power & Light Company;Bethany Beach, Delaware;0;0;vandalism, physical
+Vandalism;9/28/2011;14:59;9/28/2011;14:59;Atlantic City Electric;Dorothy, New Jersey;0;0;vandalism
+Vandalism;9/28/2011;9:30;9/28/2011;13:00;ISO New England/Convex;Watertown, Connecticut;Unknown;Unknown;vandalism
+Physcial Attack, Sabotage;9/29/2013;0:00;9/29/2013;1:00;Entergy Systems Incorporated;Cabot Arkansas;Unknown;Unknown;vandalism, physical
+Severe Weather;8/28/2011;5:01;9/3/2011;5:01;Consolidated Edison Company of NY, Inc.;Borough's and Westshester County New York;Unknown;50000;severe weather
+Severe Weather;8/28/2011;7:00;9/3/2011;12:01;New York State Electric & Gas Corporation;New York;Unknown;99700;severe weather
+Suspected Physical Attack;9/30/2011;8:22;9/30/2011;8:22;Delmarva Power & Light Company;Wilmington, Delaware;0;0;vandalism, physical
+Vandalism;9/29/2011;18:44;9/30/2011;16:00;City of Tacoma (TPWR);Collins Substation, Tacoma, Washington;Unknown;Unknown;vandalism
+Severe Weather;9/29/2011;5:00;9/30/2011;6:00;CenterPoint Energy;Houston metro area, Texas;Unknown;65000;severe weather
+Severe Weather;8/27/2011;20:30;9/4/2011;23:30;Baltimore Gas and Electric Company;Maryland;1114;760113;severe weather
+Severe Weather - Hurricane Isaac;8/28/2012;6:00;9/4/2012;8:00;Entergy;Arkansas, Louisiana, Mississippi;Unknown;770000;severe weather, hurricane/tropical storm
+Electrical System Separation (Islanding);9/5/2012;10:56;9/5/2012;11:27;WECC Reliability Coordinator;Alberta, Canada;0;0;islanding
+Actual Physical Attack;9/7/2011;0:08;9/7/2011;10:50;ISO New England;Western Connecticut, New York;0;0;vandalism, physical
+Severe Weather;9/5/2011;16:30;9/7/2011;15:45;Southern Company;Alabama, Georgia;177;53295;severe weather
+Severe Weather;9/3/2011;14:00;9/8/2011;18:00;Detroit Edison, Subsidiary of DTE Energy;Southeast Lower Peninsula, Michigan;Unknown;105000;severe weather
+Severe Weather - Thunderstorms;9/8/2012;15:40;9/8/2012;18:45;PEPCO (Potomac Electric Power Company);Prince George's County, Montgomery County Maryland, D.C.;Unknown;65000;severe weather, thunderstorm
+Severe Weather - Thunderstorms;9/7/2012;21:30;9/8/2012;1:00;Entergy Corp;Arkansas;Unknown;64951;severe weather, thunderstorm
+Vandalism;9/8/2011;19:53;9/9/2011;16:00;City of Tacoma (TPWR);Collins Substation, Tacoma, Washington;Unknown;Unknown;vandalism
+Severe Weather - Thunderstorms;9/8/2012;15:53;9/9/2012;19:46;Dominion Virginia Power;Virginia;475;119000;severe weather, thunderstorm
